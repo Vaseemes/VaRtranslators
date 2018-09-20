@@ -134,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The number one case is when they become victims of scammers and buy online from unreliable sites.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195304Z" creationid="Radim" creationdate="20180920T195130Z">
+        <seg>Nejčastěji je to z toho důvodu, že se stanou obětmi podvodníků a koupí si tento produkt na nespolehlivé internetové stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When customers read ads and reviews about SugaNorm, their top question is: does the product have all these features?</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193627Z" creationid="HP" creationdate="20180920T193627Z">
         <seg>Když zákazníci vidí reklamy a recenze o kapslích SugaNorm, jejich nejčastější otázka je: opravdu má tento produkt všechny tyto vlastnosti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why people may be skeptical about the efficacy of these caps?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195133Z" creationid="Radim" creationdate="20180920T195117Z">
+        <seg>Proč někteří lidé těmto kapslím nedůvěřují?</seg>
       </tuv>
     </tu>
     <tu>
