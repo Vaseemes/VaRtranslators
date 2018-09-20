@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It can’t replace insulin injections, but the product helps to reduce the inconvenience caused by the diagnosis: risks, pains, constant thirst, excess weight etc.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222115Z" creationid="Radim" creationdate="20180920T222115Z">
+        <seg>Nemůže nahradit inzulínové injekce, ale pomáhá snižovat potíže způsobené touto diagnózou: bolesti, neustálou žízeň, nadváhu a další rizika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a perfect option to prevent diabetes in pre-diabetes state: capsules are safe and easily tolerated.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194218Z" creationid="HP" creationdate="20180920T194218Z">
@@ -272,8 +280,16 @@
       <tuv lang="EN-US">
         <seg>SugaNorm is a breakthrough on the market of supplements for blood sugar control.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T221522Z" creationid="Radim" creationdate="20180920T221522Z">
-        <seg>Výrobek SugaNorm je průlomem na trhu s doplňky stravy pro </seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T221905Z" creationid="Radim" creationdate="20180920T221522Z">
+        <seg>Výrobek SugaNorm je průlomem na trhu s doplňky stravy pro kontrolu hladiny cukru v krvi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SugaNorm is potent to prevent diabetes development, if you have genetic predisposition to it.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222230Z" creationid="Radim" creationdate="20180920T222230Z">
+        <seg>Výrobek SugaNorm je účinkuje jako prevence proti vzniku cukrovky, pokud máte pro tuto nemoc predispozice.</seg>
       </tuv>
     </tu>
     <tu>
