@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Peter Jacobs, &lt;t0/&gt;dietologist</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T212232Z" creationid="Radim" creationdate="20180920T212232Z">
+        <seg>Petr Král, výživový poradce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Problems with blood circulation in extremities that may lead to amputation;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211440Z" creationid="Radim" creationdate="20180920T211406Z">
