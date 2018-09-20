@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The potency of ingredients is explained by multiple Wikipedia pages.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T224751Z" creationid="Radim" creationdate="20180920T224751Z">
+        <seg>Účinek jednotlivých přísad je vysvětlen na mnoha stránkách Wikipedie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The precise action depends on the diabetes type.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T223228Z" creationid="Radim" creationdate="20180920T223228Z">
