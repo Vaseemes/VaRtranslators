@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;#&lt;t1/&gt;healthylife &lt;t2/&gt;#&lt;t3/&gt;diabetes &lt;t4/&gt;#&lt;t5/&gt;bloodsugar</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193548Z" creationid="HP" creationdate="20180920T193548Z">
-        <seg>#healthylife #diabetes #bloodsugar</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200257Z" creationid="HP" creationdate="20180920T193548Z">
+        <seg>#zdravyzivot #cukrovka #cukrvkrvi</seg>
       </tuv>
     </tu>
     <tu>
@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>All you need is to leave your contacts and discover top properties of the supplement before ordering it: action, manufacturer promises, components, contraindication, tips on how to take a lot of other valuable information.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200237Z" creationid="Radim" creationdate="20180920T200237Z">
-        <seg>Vše co je třeba udělat je poskytnout nám na vás kontakt</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200547Z" creationid="Radim" creationdate="20180920T200237Z">
+        <seg>Vše co je třeba udělat je poskytnout nám na vás kontakt a my vám před objednáním produktu poskytneme všechny důležité informace: účinky, záruku výrobce, složení, kontraindikaci, tipy pro získání dalších užitečných informací.</seg>
       </tuv>
     </tu>
     <tu>
