@@ -206,10 +206,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Slow wound healing process.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211654Z" creationid="Radim" creationdate="20180920T211654Z">
+        <seg>Zpomalení procesu hojení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Stroke;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211642Z" creationid="Radim" creationdate="20180920T211642Z">
         <seg>Mozkovou mrtvici;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subheading:&lt;t0/&gt; &lt;t1/&gt;Opinions about SugaNorm – doctors and customers &lt;t2/&gt;recommend</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T212139Z" creationid="Radim" creationdate="20180920T212139Z">
+        <seg>Subheading: Názory na produkt SugaNorm - doporučení doktorů a zákazníků</seg>
       </tuv>
     </tu>
     <tu>
