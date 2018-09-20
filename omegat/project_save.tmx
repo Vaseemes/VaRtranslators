@@ -248,8 +248,8 @@
       <tuv lang="EN-US">
         <seg>Pancreatic islets stimulation;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222659Z" creationid="Radim" creationdate="20180920T222659Z">
-        <seg>Stimulaci pankreatických ostrůvků;</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222838Z" creationid="Radim" creationdate="20180920T222659Z">
+        <seg>Stimulaci Langerhansových ostrůvků;</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +266,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211440Z" creationid="Radim" creationdate="20180920T211406Z">
         <seg>Problémy s cirkulací krve, které mohou v extrémních případech vést až k amputaci končetin;Problé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Removing toxins and edema;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T223105Z" creationid="Radim" creationdate="20180920T223105Z">
+        <seg>Odstranění toxinů a edémů.</seg>
       </tuv>
     </tu>
     <tu>
