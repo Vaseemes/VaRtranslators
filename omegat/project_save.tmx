@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Important: SugaNorm is not a medication, therefore you won’t find it in pharmacies and you shouldn’t completely replace the prescribed treatment with these caps.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194701Z" creationid="HP" creationdate="20180920T194701Z">
+        <seg>Důležité: Výrobek SugaNorm není medikament, z tohoto důvodu jej nenaleznete v lékárnách a neměli byste jím nahradit předepsané léky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In this article we present you detailed &lt;t0/&gt;information we collected about these capsules, and the first thing you need to know is that SugaNorm works very well and &lt;t1/&gt;sufficiently &lt;t2/&gt;enhances the action of &lt;t3/&gt;medications prescribed by your doctor.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193641Z" creationid="HP" creationdate="20180920T193641Z">
