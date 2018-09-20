@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although the disease cannot be completely cured, there are new ways to minimize its manifestations and live a full life.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T221435Z" creationid="Radim" creationdate="20180920T221435Z">
+        <seg>I když je tato nemoc nevyléčitelná, existují jisté způsoby jak minimalizovat její projevy a žít plnohodnotný život.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complications of diabetes may include:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211231Z" creationid="Radim" creationdate="20180920T211231Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194701Z" creationid="HP" creationdate="20180920T194701Z">
         <seg>Důležité: Výrobek SugaNorm není medikament, z tohoto důvodu jej nenaleznete v lékárnách a neměli byste jím nahradit předepsané léky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In recent years a l&lt;t0/&gt;ot of new facts were revealed about type 1 and type 2 diabetes, its symptoms, complications and treatment.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T221306Z" creationid="Radim" creationdate="20180920T221306Z">
+        <seg>V posledních letech byla odhalena další fakta o cukrovce typu 1. a 2. typu, symptomech, komplikacích a léčbě. </seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +266,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193725Z" creationid="HP" creationdate="20180920T193659Z">
         <seg>Kapsle SugaNorm jsou 100% přírodní produkt, který podporuje funkci orgánů, stimuluje produkci inzulínu a </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SugaNorm is a breakthrough on the market of supplements for blood sugar control.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T221522Z" creationid="Radim" creationdate="20180920T221522Z">
+        <seg>Výrobek SugaNorm je průlomem na trhu s doplňky stravy pro </seg>
       </tuv>
     </tu>
     <tu>
