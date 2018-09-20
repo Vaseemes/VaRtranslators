@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t0/&gt;#&lt;t1/&gt;healthylife &lt;t2/&gt;#&lt;t3/&gt;diabetes &lt;t4/&gt;#&lt;t5/&gt;bloodsugar</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193548Z" creationid="HP" creationdate="20180920T193548Z">
+        <seg>#healthylife #diabetes #bloodsugar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;User reviews, doctor advice, first-hand experience, how to &lt;t3/&gt;take&lt;t4/&gt;, effects, where to buy&lt;t5/&gt; in pharmacies&lt;t6/&gt;, price</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193407Z" creationid="HP" creationdate="20180920T193407Z">
@@ -22,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In this article we present you detailed &lt;t0/&gt;information we collected about these capsules, and the first thing you need to know is that SugaNorm works very well and &lt;t1/&gt;sufficiently &lt;t2/&gt;enhances the action of &lt;t3/&gt;medications prescribed by your doctor.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193641Z" creationid="HP" creationdate="20180920T193641Z">
+        <seg>V tomto článku se dozvíte detailní informace, které jsme shromáždili o těchto kapslích. První věc, kterou musíte vědět je, že kapsle SugaNorm opravdu fungují a dostatečně zvyšují účinky léků předepsaných vaším doktorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SugaNorm capsules &lt;t0/&gt;information&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193400Z" creationid="HP" creationdate="20180920T193400Z">
@@ -30,10 +46,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SugaNorm is a 100%-natural herbal product to help balance out the work of internal organs, stimulate insulin production and deal with sugar spikes in blood.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193725Z" creationid="HP" creationdate="20180920T193659Z">
+        <seg>Kapsle SugaNorm jsou 100% přírodní produkt, který podporuje funkci orgánů, stimuluje produkci inzulínu a </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SugaNorm – natural remedy to control blood sugar in diabetes and pre-diabetes;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193607Z" creationid="HP" creationdate="20180920T193607Z">
+        <seg>Kapsle SugaNorm – přírodní lék pro regulaci cukru v krvi u lidí s cukrovkou nebo předpoklady k onemocnění cukrovkou</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TRANSLATED TEXT</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T191006Z" creationid="HP" creationdate="20180920T191006Z">
         <seg>zkouška2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When customers read ads and reviews about SugaNorm, their top question is: does the product have all these features?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193627Z" creationid="HP" creationdate="20180920T193627Z">
+        <seg>Když zákazníci vidí reklamy a recenze o kapslích SugaNorm, jejich nejčastější otázka je: opravdu má tento produkt všechny tyto vlastnosti?</seg>
       </tuv>
     </tu>
     <tu>
