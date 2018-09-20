@@ -4,6 +4,14 @@
   <header creationtool="O aplikaci OO" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="O aplikaci OmegaT" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>[00:00:00] Hi, it’s Scott Cervine, director of Think and Grow Rich, the Legacy.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180920T072828Z" creationid="Pan Václav" creationdate="20180920T072828Z">
+        <seg>[00:00:00] Zkouška</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
