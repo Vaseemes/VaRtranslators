@@ -16,8 +16,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t0/&gt;The product is helpful in:</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222641Z" creationid="Radim" creationdate="20180920T222641Z">
-        <seg>Produkt je vhodný pro:</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T223133Z" creationid="Radim" creationdate="20180920T222641Z">
+        <seg>Produkt podporuje:</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Preventing diabetes complications.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T223149Z" creationid="Radim" creationdate="20180920T223149Z">
+        <seg>Prevenci komplikací cukrovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Problems with blood circulation in extremities that may lead to amputation;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211440Z" creationid="Radim" creationdate="20180920T211406Z">
@@ -272,8 +280,8 @@
       <tuv lang="EN-US">
         <seg>Removing toxins and edema;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T223105Z" creationid="Radim" creationdate="20180920T223105Z">
-        <seg>Odstranění toxinů a edémů.</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T223158Z" creationid="Radim" creationdate="20180920T223105Z">
+        <seg>Odstranění toxinů a edémů;</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195304Z" creationid="Radim" creationdate="20180920T195130Z">
         <seg>Nejčastěji je to z toho důvodu, že se stanou obětmi podvodníků a koupí si tento produkt na nespolehlivé internetové stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The precise action depends on the diabetes type.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T223228Z" creationid="Radim" creationdate="20180920T223228Z">
+        <seg>Přesné účinky závisí na typu cukrovky.</seg>
       </tuv>
     </tu>
     <tu>
