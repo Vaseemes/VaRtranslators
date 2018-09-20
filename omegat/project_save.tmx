@@ -70,10 +70,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Erectile dysfunction and low libido;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211548Z" creationid="Radim" creationdate="20180920T211548Z">
+        <seg>Erektilní dysfunkci a nízké libido;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eye diseases leading to impaired vision;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211350Z" creationid="Radim" creationdate="20180920T211350Z">
-        <seg>Nemoci očí, které mohou vést až k slepotě</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211409Z" creationid="Radim" creationdate="20180920T211350Z">
+        <seg>Nemoci očí, které mohou vést až k slepotě;</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195837Z" creationid="Radim" creationdate="20180920T195837Z">
         <seg>Pokud máte jakékoli otázky ohledně našeho produktu, náš konzultant vám na ně rád odpoví na našich oficiálních webových stránkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Impaired stomach function;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211619Z" creationid="Radim" creationdate="20180920T211619Z">
+        <seg>Poruchu funkce žaludku;</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +178,38 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195417Z" creationid="Radim" creationdate="20180920T195417Z">
         <seg>Originální internetové stránky produktu SugaNorm mohou být okopírovány podvodníky, kteří chtějí okrást zákazníky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Problems with blood circulation in extremities that may lead to amputation;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211440Z" creationid="Radim" creationdate="20180920T211406Z">
+        <seg>Problémy s cirkulací krve, které mohou v extrémních případech vést až k amputaci končetin;Problé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Several chronic heart and brain diseases;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211530Z" creationid="Radim" creationdate="20180920T211530Z">
+        <seg>Několik chronických onemocnění srdce a mozku;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Skin diseases (caused by infections);</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211501Z" creationid="Radim" creationdate="20180920T211501Z">
+        <seg>Nemoci kůže (způsobené infekcemi);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stroke;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211642Z" creationid="Radim" creationdate="20180920T211642Z">
+        <seg>Mozkovou mrtvici;</seg>
       </tuv>
     </tu>
     <tu>
