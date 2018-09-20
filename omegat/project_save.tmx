@@ -222,10 +222,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You have diabetes, but want to enhance the action of your prescribed treatment;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T210823Z" creationid="Radim" creationdate="20180920T210823Z">
+        <seg>Máte cukrovka, ale chcete podpořit účinky vašich předepsaných léků.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have increased blood glucose levels, but not diagnosed with diabetes;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200654Z" creationid="Radim" creationdate="20180920T200654Z">
+        <seg>Máte zvýšenou úroveň glukózy, ale nebyla vám diagnostikována cukrovka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>You may use the link now or save it for later.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195713Z" creationid="Radim" creationdate="20180920T195713Z">
         <seg>Odkaz můžete použít nyní, nebo si ho uložit a použít později.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may want to buy these caps in the following cases:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200603Z" creationid="Radim" creationdate="20180920T200603Z">
+        <seg>Přípravek si budete chtít koupit v případě že:</seg>
       </tuv>
     </tu>
     <tu>
