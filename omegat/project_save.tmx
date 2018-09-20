@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Also, they can supplement the diet and medications prescribed by your therapist.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194314Z" creationid="HP" creationdate="20180920T194314Z">
+        <seg>Také mohou podpořit účinky léků a stravy, které vám předepsal lékař.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193850Z" creationid="HP" creationdate="20180920T193850Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193823Z" creationid="HP" creationdate="20180920T193823Z">
         <seg>Introduction:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is a perfect option to prevent diabetes in pre-diabetes state: capsules are safe and easily tolerated.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194218Z" creationid="HP" creationdate="20180920T194218Z">
+        <seg>Jsou skvělou volbou pro prevenci cukrovky ve stadiu prediabetu: kapsle jsou bezpečné a dobře se vstřebávají.</seg>
       </tuv>
     </tu>
     <tu>
