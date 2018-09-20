@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t2/&gt;User reviews, doctor advice, first-hand experience, how to &lt;t3/&gt;take&lt;t4/&gt;, effects, where to buy&lt;t5/&gt; in pharmacies&lt;t6/&gt;, price</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193407Z" creationid="HP" creationdate="20180920T193407Z">
+        <seg>Recenze uživatelů, rady doktorů, zkušenosti uživatelů, jak se kapsle užívají, efekty, v jakých lékárnách výrobek prodávají, cena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Detailed review about SugaNorm – supplement to help you control blood sugar and avoid diabetes.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193417Z" creationid="HP" creationdate="20180920T193417Z">
+        <seg>Detailní recenze výrobku SugaNorm - doplněk stravy, který pomáhá regulovat hladinu cukru v krvi a předcházet cukrovce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SugaNorm capsules &lt;t0/&gt;information&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193400Z" creationid="HP" creationdate="20180920T193400Z">
+        <seg>Informace o kapslích &lt;t0/&gt;SugaNorm&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TRANSLATED TEXT</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T191006Z" creationid="HP" creationdate="20180920T191006Z">
