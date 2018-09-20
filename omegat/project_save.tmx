@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Complications of diabetes may include:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211231Z" creationid="Radim" creationdate="20180920T211231Z">
+        <seg>Komplikace způsobené cukrovkou zahrnují: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Description:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193850Z" creationid="HP" creationdate="20180920T193850Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193417Z" creationid="HP" creationdate="20180920T193417Z">
         <seg>Detailní recenze výrobku SugaNorm - doplněk stravy, který pomáhá regulovat hladinu cukru v krvi a předcházet cukrovce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eye diseases leading to impaired vision;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211350Z" creationid="Radim" creationdate="20180920T211350Z">
+        <seg>Nemoci očí, které mohou vést až k slepotě</seg>
       </tuv>
     </tu>
     <tu>
