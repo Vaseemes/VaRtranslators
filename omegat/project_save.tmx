@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>John Jackson&lt;t0/&gt;, &lt;t1/&gt;47</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T225712Z" creationid="Radim" creationdate="20180920T225712Z">
+        <seg>Jan Kolář, 47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keira Phillips, thyroid specialist</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222337Z" creationid="Radim" creationdate="20180920T222337Z">
