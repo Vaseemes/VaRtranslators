@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>TRANSLATED TEXT</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180920T191006Z" creationid="HP" creationdate="20180920T191006Z">
+        <seg>zkouška2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>[00:00:00] Hi, it’s Scott Cervine, director of Think and Grow Rich, the Legacy.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180920T073331Z" creationid="Pan Václav" creationdate="20180920T072828Z">
