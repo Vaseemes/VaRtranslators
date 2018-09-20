@@ -2,3 +2,6 @@ medication	medikament
 pharmacies	lékárny
 dietologist	výživový poradce
 potency	účinek
+sugar	cukr
+edema	otok
+headaches	bolest hlavy
