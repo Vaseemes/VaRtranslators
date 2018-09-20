@@ -1,2 +1,3 @@
 medication	medikament
 pharmacies	lékárny
+dietologist	výživový poradce
