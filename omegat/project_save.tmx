@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you have any additional questions about the product, you can leave your contacts and ask the company manager.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T083101Z" creationid="Radim" creationdate="20180921T083101Z">
+        <seg>V případě jakýchkoli dalších dotazů o produktu nám můžete poskytnout váš kontakt a dotázat se přímo ředitele společnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you want &lt;t0/&gt;to find out&lt;t1/&gt;, how to &lt;t2/&gt;take SugaNorm properly&lt;t3/&gt;, &lt;t4/&gt;refer to the information of the label or follow the instructions below:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074755Z" creationid="Radim" creationdate="20180921T074755Z">
@@ -386,6 +394,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194218Z" creationid="HP" creationdate="20180920T194218Z">
         <seg>Jsou skvělou volbou pro prevenci cukrovky ve stadiu prediabetu: kapsle jsou bezpečné a dobře se vstřebávají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is completely free and available to all users, not only those, who place &lt;t0/&gt;orders.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T083148Z" creationid="Radim" creationdate="20180921T083148Z">
+        <seg>Poradenství zákazníkům je zcela zdarma a pro všechny uživatele, bez nutnosti objednávky zboží.</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +874,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081058Z" creationid="Radim" creationdate="20180921T081052Z">
         <seg>Kurkuma - snižuje pravděpodobnost výskytu komplikací cukrovky a snižuje riziko onemocnění srdce a mozku;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We hope this article was informative and provided all necessary information about SugaNorm: where to buy it, what are main ingredients, are there side effects and contraindications.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T083313Z" creationid="Radim" creationdate="20180921T083313Z">
+        <seg>Doufáme, že byl tento článek informativní a obsahoval všechny nezbytné informace o produktu SugaNorm: kde jej koupit, jaké jsou hlavní ingredience, vedlejší účinky a kontraindikace.</seg>
       </tuv>
     </tu>
     <tu>
