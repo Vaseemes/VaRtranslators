@@ -6,3 +6,8 @@ sugar	cukr
 edema	otok
 headaches	bolest hlavy
 control	regulovat
+side effects	vedlejší účinky
+rare	vzácný
+intolerance	nesnášenlivost
+capsule	kapsle
+individual	individuální
