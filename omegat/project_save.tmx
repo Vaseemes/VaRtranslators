@@ -614,6 +614,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patients with chronic joint inflammation&lt;t0/&gt; – reduces inflammation markers&lt;t1/&gt;;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125247Z" creationid="Radim" creationdate="20180921T125219Z">
+        <seg>Pacienti s chornickým zánětem kloubů - krém snižuje výskyt zánětu;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>People after injuries – eliminates swelling and pain;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125308Z" creationid="Radim" creationdate="20180921T125308Z">
+        <seg>Lidem po úrazech - odstraňuje otoky a bolest;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Peter Jacobs, &lt;t0/&gt;dietologist</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T212232Z" creationid="Radim" creationdate="20180920T212232Z">
@@ -934,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Those, who suffer from arthritis, arthrosis, osteoporosis and other degenerative joint and spine tissues conditions;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125440Z" creationid="Radim" creationdate="20180921T125440Z">
+        <seg>Lidé trpící artritidou, artrózou, isteoporózou nebo jiným degenerativním onemocněním kloubů a tkáně páteře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>To protect as many customers as we can, we provide a trusted link to the official store:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195842Z" creationid="Radim" creationdate="20180920T195644Z">
@@ -962,6 +986,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193627Z" creationid="HP" creationdate="20180920T193627Z">
         <seg>Když zákazníci vidí reklamy a recenze o kapslích SugaNorm, jejich nejčastější otázka je: opravdu má tento produkt všechny tyto vlastnosti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Who can benefit from this product?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125228Z" creationid="Radim" creationdate="20180921T125211Z">
+        <seg>Komu tento produkt nejvíce pomůže?</seg>
       </tuv>
     </tu>
     <tu>
