@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Athletes, who must deal with consequences after old sports traumas.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125623Z" creationid="Radim" creationdate="20180921T125623Z">
+        <seg>Sportovcům, kteří se musí vypořádat s následky zranění.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Balancing metabolic processes;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222650Z" creationid="Radim" creationdate="20180920T222650Z">
@@ -234,6 +242,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081247Z" creationid="Radim" creationdate="20180921T081159Z">
         <seg>Semínka černého bezu - mají antibakteriální účinek a urychlují proces hojení; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Elderly people with chronic aches of unknown nature;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125549Z" creationid="Radim" creationdate="20180921T125451Z">
+        <seg>Starším lidem s chronickou bolestí neznámé povahy;</seg>
       </tuv>
     </tu>
     <tu>
@@ -952,8 +968,8 @@
       <tuv lang="EN-US">
         <seg>Those, who suffer from arthritis, arthrosis, osteoporosis and other degenerative joint and spine tissues conditions;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125440Z" creationid="Radim" creationdate="20180921T125440Z">
-        <seg>Lidé trpící artritidou, artrózou, isteoporózou nebo jiným degenerativním onemocněním kloubů a tkáně páteře.</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125552Z" creationid="Radim" creationdate="20180921T125440Z">
+        <seg>Lidem trpícím artritidou, artrózou, osteoporózou nebo jiným degenerativním onemocněním kloubů a tkáně páteře;</seg>
       </tuv>
     </tu>
     <tu>
