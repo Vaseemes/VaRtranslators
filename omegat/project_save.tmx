@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cayenne pepper extract &lt;t0/&gt;– helps other components penetrate deeper tissues, warms up the muscles and ligaments;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183554Z" creationid="Radim" creationdate="20180921T183554Z">
+        <seg>Extrakt kajenského pepře - pomáhá dalším přísadám proniknout hlouběji do tkáně, prohřívá svaly a vazy;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clinical studies found no side effects except for very rare individual intolerance of capsule components.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082056Z" creationid="Radim" creationdate="20180921T082056Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211409Z" creationid="Radim" creationdate="20180920T211350Z">
         <seg>Nemoci očí, které mohou vést až k slepotě;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fir needle essential oil –&lt;t0/&gt; has scientifically tested efficacy in relieving inflammation and &lt;t1/&gt;stagnation processes in &lt;t2/&gt;joints;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184040Z" creationid="Radim" creationdate="20180921T184040Z">
+        <seg>Olej z jedle balzámové - má vědecky testované účinky na léčbu zánětu a procesů ustrnutí v kloubech</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1538,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081058Z" creationid="Radim" creationdate="20180921T081052Z">
         <seg>Kurkuma - snižuje pravděpodobnost výskytu komplikací cukrovky a snižuje riziko onemocnění srdce a mozku;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turpentine oil – &lt;t0/&gt;heals chronic pain and promotes joint restoration after injuries and impact of activities, deals with &lt;t1/&gt;meteo-dependent aches.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183737Z" creationid="Radim" creationdate="20180921T183737Z">
+        <seg>Terpentýnový olej - léčí chronickou bolest a podporuje hojení kloubů po zranění; pomáhá zmírnit bolesti spojené se změnami počasí</seg>
       </tuv>
     </tu>
     <tu>
