@@ -126,10 +126,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bean extract –&lt;t0/&gt; &lt;t1/&gt;fights with &lt;t2/&gt;feeling&lt;t3/&gt;s &lt;t4/&gt;of &lt;t5/&gt;uncontrollable &lt;t6/&gt;thirst and hunger.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081417Z" creationid="Radim" creationdate="20180921T081417Z">
+        <seg>Extrakt z fazolí - pomáhá utišit pocit nekontrolovatelné žízně a hladu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complications of diabetes may include:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211231Z" creationid="Radim" creationdate="20180920T211231Z">
         <seg>Komplikace způsobené cukrovkou zahrnují: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Contraindications to product use include young age (under 18), pregnancy and breastfeeding.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081858Z" creationid="Radim" creationdate="20180921T081858Z">
+        <seg>Produkt by neměly používat těhotné a kojící ženy a mladiství (do 18 let).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dandelion extract –&lt;t0/&gt; &lt;t1/&gt;intensifies &lt;t2/&gt;blood circulation&lt;t3/&gt; in tissues and helps to excrete &lt;t4/&gt;excess fluid;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081347Z" creationid="Radim" creationdate="20180921T081347Z">
+        <seg>Extrakt z pampelišky - posiluje cirkulaci krve v tkáni a pomáhá s vylučováním přebytečných tekutin;</seg>
       </tuv>
     </tu>
     <tu>
