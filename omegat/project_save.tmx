@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>5)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075235Z" creationid="Radim" creationdate="20180921T075235Z">
+        <seg>5)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075412Z" creationid="Radim" creationdate="20180921T075412Z">
+        <seg>6)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;#&lt;t1/&gt;healthylife &lt;t2/&gt;#&lt;t3/&gt;diabetes &lt;t4/&gt;#&lt;t5/&gt;bloodsugar</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200257Z" creationid="HP" creationdate="20180920T193548Z">
@@ -350,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never neglect medical advice.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075231Z" creationid="Radim" creationdate="20180921T075231Z">
+        <seg>Nikdy nezanedbávejte rady lékaře.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No more terrible headaches and edema.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T225857Z" creationid="Radim" creationdate="20180920T225857Z">
@@ -534,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SugaNorm is recommended as a supplement to prevent diabetes in prediabetes stage and minimize its symptoms and dangerous consequences during the treatment course.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075407Z" creationid="Radim" creationdate="20180921T075407Z">
+        <seg>Výrobek SugaNorm je doporučován jako doplněk stravy k prevenci cukrovky ve fázi prediabetu, také minimalizuje její příznaky a nebezpečné důsledky v průběhu léčby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SugaNorm – natural remedy to control blood sugar in diabetes and pre-diabetes;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193607Z" creationid="HP" creationdate="20180920T193607Z">
@@ -610,6 +642,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T223228Z" creationid="Radim" creationdate="20180920T223228Z">
         <seg>Přesné účinky závisí na typu cukrovky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product should not be taken by children, pregnant or breastfeeding women.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075433Z" creationid="Radim" creationdate="20180921T075433Z">
+        <seg>Produkt by neměly užívat děti a těhotné nebo kojící ženy.</seg>
       </tuv>
     </tu>
     <tu>
