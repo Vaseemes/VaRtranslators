@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Boosts natural collagen synthesis for self-restoration;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155846Z" creationid="HP" creationdate="20180921T155846Z">
+        <seg>Zvyšuje přirozenou syntézu kolagenu..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clinical studies found no side effects except for very rare individual intolerance of capsule components.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082056Z" creationid="Radim" creationdate="20180921T082056Z">
@@ -272,8 +280,8 @@
       <tuv lang="EN-US">
         <seg>Eliminates pain in spine, joints and ligaments;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155415Z" creationid="HP" creationdate="20180921T155415Z">
-        <seg>Eliminuje bolest páteře, kloubů a vazů.</seg>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155419Z" creationid="HP" creationdate="20180921T155415Z">
+        <seg>Eliminuje bolest páteře, kloubů a vazů;</seg>
       </tuv>
     </tu>
     <tu>
