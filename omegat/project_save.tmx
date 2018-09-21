@@ -120,8 +120,8 @@
       <tuv lang="EN-US">
         <seg>A lot of my patients apply Hondrocream and report about sufficient improvement.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T180954Z" creationid="Radim" creationdate="20180921T180954Z">
-        <seg>Mnoho mých pacientů používá Hondrocream a </seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T181014Z" creationid="Radim" creationdate="20180921T180954Z">
+        <seg>Mnoho mých pacientů používá Hondrocream a je u nich viditelné zlepšení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It helps to deal with several problems including aches and swelling.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T181040Z" creationid="Radim" creationdate="20180921T181040Z">
+        <seg>Pomáhá řešit několik problémů. Tiší bolest a zmírňuje otoky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It improved the condition in 94% of participants in 1 month!</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154947Z" creationid="HP" creationdate="20180921T154944Z">
@@ -754,6 +762,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154630Z" creationid="HP" creationdate="20180921T154630Z">
         <seg>Většina zákazníků, kteří byli zklamáni kvalitou produktů, zakoupila na internetu padělek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most of our center clients can get back to fitness in a month.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T181116Z" creationid="Radim" creationdate="20180921T181116Z">
+        <seg>Mnoho klientů našeho centra se mohou během pouhého měsíce vrátit zpět do posilovny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,6 +1178,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T180757Z" creationid="Radim" creationdate="20180921T180757Z">
         <seg>Produkt je cenově dostupný a naleznete ho na oficiálních webových stránkách prodejců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product is recommended to patients after surgeries, injuries and in case of chronic diseases of connective tissues.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T181212Z" creationid="Radim" creationdate="20180921T181212Z">
+        <seg>Tento produkt doporučuji pacientům po operaci, zraněným pacientům i pacientům s chronickým onemocněním pojivových tkání.</seg>
       </tuv>
     </tu>
     <tu>
