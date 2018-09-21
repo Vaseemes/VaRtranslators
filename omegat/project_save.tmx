@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Camphor &lt;t0/&gt;– removes welling and soothes inflamed area due to its &lt;t1/&gt;warming analgesic&lt;t2/&gt; effect;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183452Z" creationid="Radim" creationdate="20180921T183452Z">
+        <seg>Kafr - díky jeho analgetickým účinkům odstraňuje otok a zklidňuje zanícenou oblast;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Causes no allergies or addiction to components.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155946Z" creationid="HP" creationdate="20180921T155946Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155332Z" creationid="HP" creationdate="20180921T155332Z">
         <seg>Pomáhá obnovit poškozenou tkáň;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hondrocream &lt;t0/&gt;consists of&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183307Z" creationid="Radim" creationdate="20180921T183307Z">
+        <seg>Hlavní přísady krému Hondrocream:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1514,6 +1530,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T160229Z" creationid="HP" creationdate="20180921T160229Z">
         <seg>Shromáždili jsme nejvíce informativní hodnocení odborníků a uživatelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We found the list of most important ingredients; their detailed action is explained by multiple Wikipedia articles:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183243Z" creationid="Radim" creationdate="20180921T183243Z">
+        <seg>Podívejte se na nejdůležitější přísady krému. Účinek těchto přísad je vysvětlen na mnoha stránkách Wikipedie.</seg>
       </tuv>
     </tu>
     <tu>
