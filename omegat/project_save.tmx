@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Doctor reviews state that the product has several therapeutic results:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155245Z" creationid="HP" creationdate="20180921T155205Z">
+        <seg>Recenze doktorů, kteří uvádí, že má tento produkt mnoho léčivých výsledků:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>During multiple clinical studies, the combination of components is hypoallergenic and work well in precise dosages and combinations used by manufacturer.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075929Z" creationid="Radim" creationdate="20180921T075929Z">
@@ -258,6 +266,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125549Z" creationid="Radim" creationdate="20180921T125451Z">
         <seg>Starším lidem s chronickou bolestí neznámé povahy;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Eliminates pain in spine, joints and ligaments;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155415Z" creationid="HP" creationdate="20180921T155415Z">
+        <seg>Eliminuje bolest páteře, kloubů a vazů.</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +322,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194057Z" creationid="HP" creationdate="20180920T194057Z">
         <seg>Heading: Recenze kapslí SugaNorm: názory a zkušenosti, použití, k prodeji v lékárnách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Helps restore damages tissues;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155332Z" creationid="HP" creationdate="20180921T155332Z">
+        <seg>Pomáhá obnovit poškozenou tkáň;</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,6 +458,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193641Z" creationid="HP" creationdate="20180920T193641Z">
         <seg>V tomto článku se dozvíte detailní informace, které jsme shromáždili o těchto kapslích. První věc, kterou musíte vědět je, že kapsle SugaNorm opravdu fungují a dostatečně zvyšují účinky léků předepsaných vaším doktorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inhibits manifestation of arthrosis and osteochondrosis;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155259Z" creationid="HP" creationdate="20180921T155259Z">
+        <seg>Inhibuje projevy artrózy a osteochondrózy;</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +770,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154924Z" creationid="HP" creationdate="20180921T154742Z">
         <seg>Výrobek svou vysokou efektivity prokázal při klinickém testování, kterého se zúčastnilo přes 300 účastníků různých věkových kategorií.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Promotes post-injury and post-surgical recovery;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155323Z" creationid="HP" creationdate="20180921T155323Z">
+        <seg>Podporuje poúrazová a pooperační zotavení;</seg>
       </tuv>
     </tu>
     <tu>
