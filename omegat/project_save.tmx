@@ -14,10 +14,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>2)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074937Z" creationid="Radim" creationdate="20180921T074937Z">
+        <seg>2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) &lt;t0/&gt;Patients interrupted the treatment course before they managed to notice results.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074328Z" creationid="Radim" creationdate="20180921T074328Z">
         <seg>2) Pacienti přerušili léčbu ještě před začátkem účinku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075022Z" creationid="Radim" creationdate="20180921T075022Z">
+        <seg>3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>4)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075105Z" creationid="Radim" creationdate="20180921T075105Z">
+        <seg>4)</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Never exceed the recommended dosage.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075103Z" creationid="Radim" creationdate="20180921T075103Z">
+        <seg>Nikdy nepřekračujte doporučené dávkování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>No more terrible headaches and edema.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T225857Z" creationid="Radim" creationdate="20180920T225857Z">
@@ -386,6 +418,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211440Z" creationid="Radim" creationdate="20180920T211406Z">
         <seg>Problémy s cirkulací krve, které mohou v extrémních případech vést až k amputaci končetin;Problé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember that SugaNorm doesn’t replace insulin injections or other medications prescribed by your physician.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075148Z" creationid="Radim" creationdate="20180921T075148Z">
+        <seg>Mějte na paměti, že kapsle SugaNorm nenahrazují inzulínové injekce nebo jiné léky předepsané lékařem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -506,6 +546,22 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T191006Z" creationid="HP" creationdate="20180920T191006Z">
         <seg>zkouška2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take 1 capsule per day in the morning at least 30 minutes before breakfast with a glass of water.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075019Z" creationid="Radim" creationdate="20180921T075019Z">
+        <seg>Užívejte 1 kapsli denně, ráno minimálně 30 minut před snídaní. Kapsli zapijte sklenicí vody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take capsules daily without missing a dose for a month.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075053Z" creationid="Radim" creationdate="20180921T075053Z">
+        <seg>Kapsle užívejte denně, bez vynechání dávky.</seg>
       </tuv>
     </tu>
     <tu>
