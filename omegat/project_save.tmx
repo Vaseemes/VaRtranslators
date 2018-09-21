@@ -766,6 +766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It implies that you can’t buy original Hondrocream in pharmacies or on Amazon.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185505Z" creationid="Radim" creationdate="20180921T185505Z">
+        <seg>Z toho vyplývá, že Hondrocream nekoupíte na neoficiálních internetových stránkách ani v lékárnách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It improved the condition in 94% of participants in 1 month!</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154947Z" creationid="HP" creationdate="20180921T154944Z">
@@ -994,6 +1002,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T073910Z" creationid="Radim" creationdate="20180921T073910Z">
         <seg>Více než 70 % zákazníků nakoupilo více než jednou a to buď pro sebe, nebo pro kamarády a rodinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most customers appreciate this approach: they just leave their contact information, wait for the manager call, place the order and receive the package directly.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185602Z" creationid="Radim" creationdate="20180921T185602Z">
+        <seg>Valná většina zákazníků tento přístup oceňuje: pouze zanechají svůj kontakt, počkají na hovor od manažera, objednají si požadovaný počet výrobků a jednoduše obdrží balíček.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1518,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The price can be found at the official website by the link we provided above.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185728Z" creationid="Radim" creationdate="20180921T185728Z">
+        <seg>Cenu produktu naleznete na oficiálních internetových stránkách, odkaz naleznete výše.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The price is affordable, the product can be found online at legit sellers’ website.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T180757Z" creationid="Radim" creationdate="20180921T180757Z">
@@ -1614,10 +1638,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is done to cut additional costs and make the final price lower.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185432Z" creationid="Radim" creationdate="20180921T185432Z">
+        <seg>Důvodem je i snížení nákladů produktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This is explained by the unique combination of ingredients including botanical oils and extracts and is not a product drawback.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185202Z" creationid="Radim" creationdate="20180921T185202Z">
         <seg>To je dáno jedinečnou kombinací přísad včetně rostlinných olejů a extraktů, tento jev není nevýhodou produktu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This method of delivering products to the customer’s door can guarantee right storage conditions of the cream, its genuine quality and freshness.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185645Z" creationid="Radim" creationdate="20180921T185645Z">
+        <seg>Tento způsob doručení produktů až ke dveřím zákazníka garantuje správné skladovací podmínky krému, jeho kvalitu a čerstvost.</seg>
       </tuv>
     </tu>
     <tu>
