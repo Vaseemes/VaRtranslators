@@ -11,3 +11,4 @@ rare	vzácný
 intolerance	nesnášenlivost
 capsule	kapsle
 individual	individuální
+ligaments	vazy
