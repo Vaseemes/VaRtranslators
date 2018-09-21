@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1) &lt;t0/&gt;One package is usually enough for a treatment course.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182657Z" creationid="Radim" creationdate="20180921T182657Z">
+        <seg>1) Jedno balení zpravidla vystačí na celý průběh léčby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2)</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074937Z" creationid="Radim" creationdate="20180921T074937Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074328Z" creationid="Radim" creationdate="20180921T074328Z">
         <seg>2) Pacienti přerušili léčbu ještě před začátkem účinku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2) &lt;t0/&gt;Prepare the skin for cream use.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182731Z" creationid="Radim" creationdate="20180921T182731Z">
+        <seg>2) Kůži před aplikací krému správně ošetřete.</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want to&lt;t0/&gt; have a clear idea on how to apply Hondrocream correctly, &lt;t1/&gt;refer to the information &lt;t2/&gt;on the package or read &lt;t3/&gt;the instructions below:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182634Z" creationid="Radim" creationdate="20180921T182634Z">
+        <seg>Pro správné užití krému Hondrocream se řiďte informacemi na obalu a nebo instrukcemi níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impaired stomach function;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211619Z" creationid="Radim" creationdate="20180920T211619Z">
@@ -706,6 +730,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T230243Z" creationid="Radim" creationdate="20180920T230243Z">
         <seg>To znamená, že zaplatíte jednou a užíváte si prodlouženého efektu dlouho po dobrání poslední kapsle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should be dry and clean.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182737Z" creationid="Radim" creationdate="20180921T182737Z">
+        <seg>Měla by být suchá a čistá.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1066,6 +1098,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211642Z" creationid="Radim" creationdate="20180920T211642Z">
         <seg>Mozkovou mrtvici;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subheading:&lt;t0/&gt; &lt;t1/&gt;How to &lt;t2/&gt;apply Hondrocream &lt;t3/&gt;to get rid of joint pain?&lt;t4/&gt; Instructions &lt;t5/&gt;and advice</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182555Z" creationid="Radim" creationdate="20180921T182555Z">
+        <seg>Subheading: Jak se zbavit bolesti kloubů pomocí krému Hondrocream? Instukce a poradenství</seg>
       </tuv>
     </tu>
     <tu>
