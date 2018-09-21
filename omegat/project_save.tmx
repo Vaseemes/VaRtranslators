@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hondrocream is a perfect remedy to deal with inflammation, pain and discomfort with no health risks.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T180511Z" creationid="Radim" creationdate="20180921T180511Z">
+        <seg>Hondrocream je dokonalý lék, který vám pomůže vypořádat se se záněty, bolestí a dalšími nepříjemnostmi bez jakýchkoli zdravotních rizik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hondrocream is completely natural and consists of organic lab-tested ingredients.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155022Z" creationid="HP" creationdate="20180921T155022Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082657Z" creationid="Radim" creationdate="20180921T082657Z">
         <seg>Výrobci odmítli prodej pomocí prostředníků, kteří by produkt zákazníkům dodávali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many creams in pharmacies cause addiction – i.e. you are not able to function without them anymore.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T180615Z" creationid="Radim" creationdate="20180921T180615Z">
+        <seg>Mnoho krémů v lékárnách způsobuje závislost - tzn. nebudete bez nich moci normálně fungovat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1162,6 +1178,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T080020Z" creationid="Radim" creationdate="20180921T080020Z">
         <seg>Tomu se říká synergický efekt - když kombinace jednotlivých složek funguje více efektivně než každá složka samostatně.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product is different: it is based on herbal extracts, natural substances and oils to help you combat pain and swelling without putting your health at risk.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T180728Z" creationid="Radim" creationdate="20180921T180728Z">
+        <seg>Tento produkt je jiný. Jeho složení se skládá z bylinných extraktů, přírodních substancí a olejů, které pomáhají bojovat s bolestí a otoky, aniž by ohrozil vaše zdraví.</seg>
       </tuv>
     </tu>
     <tu>
