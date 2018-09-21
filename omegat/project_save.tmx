@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many of this diseases and conditions are impossible to completely cure without expensive and sophisticated surgeries.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T153219Z" creationid="HP" creationdate="20180921T153219Z">
+        <seg>Mnoho z těchto nemocí a stavů je nemožné úplně vyléčit bez drahých a sofistikovaných operací.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many people buy low-quality substitutes without even knowing it.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195544Z" creationid="Radim" creationdate="20180920T195544Z">
