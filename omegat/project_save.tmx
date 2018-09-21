@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;complete &lt;t1/&gt;product &lt;t2/&gt;formula &lt;t3/&gt;is a patented commercial secret, however, we managed to get a list of major ingredients:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T080127Z" creationid="Radim" creationdate="20180921T080127Z">
+        <seg>Celý proces výroby a přesné složení je patentované obchodní tajemství, ale podařilo se nám zajistit seznam nejdůležitějších ingrediencí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The capsules increase sensitivity to insulin when added to traditional treatment plan (at 87,5%) and can stimulate its natural synthesis (up to 70%).</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222632Z" creationid="Radim" creationdate="20180920T222625Z">
@@ -698,6 +706,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074935Z" creationid="Radim" creationdate="20180921T074935Z">
         <seg>Balení obsahuje 30 kapslí: tedy dávkování na celý měsíc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is called a synergy &lt;t0/&gt;effect – when the combination of ingredients works a few times more effective than each ingredient taken one by one.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T080020Z" creationid="Radim" creationdate="20180921T080020Z">
+        <seg>Tomu se říká synergický efekt - když kombinace jednotlivých složek funguje více efektivně než každá složka samostatně.</seg>
       </tuv>
     </tu>
     <tu>
