@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T190003Z" creationid="Radim" creationdate="20180921T190003Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2)</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074937Z" creationid="Radim" creationdate="20180921T074937Z">
@@ -442,6 +450,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211409Z" creationid="Radim" creationdate="20180920T211350Z">
         <seg>Nemoci očí, které mohou vést až k slepotě;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feel free to leave your contacts, if you want to get more information: the company offers comprehensive advice free of charge.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185757Z" creationid="Radim" creationdate="20180921T185757Z">
+        <seg>Neváhejte a sdělte nám své kontaktní informace, pokud chcete získat více informací: společnost nabízí komplexní poradenství zdarma.</seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +914,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222337Z" creationid="Radim" creationdate="20180920T222337Z">
         <seg>Michaela Procházková, specialistka na štítnou žlázu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lean how to place the order, how long does it take to get the cream, what are quality guarantees and so on.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185815Z" creationid="Radim" creationdate="20180921T185815Z">
+        <seg>Zjistěte, jak můžete provést objednávku, jak dlouho trvá dodání, jaké jsou garance kvality atd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1738,6 +1762,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T083313Z" creationid="Radim" creationdate="20180921T083313Z">
         <seg>Doufáme, že byl tento článek informativní a obsahoval všechny nezbytné informace o produktu SugaNorm: kde jej koupit, jaké jsou hlavní ingredience, vedlejší účinky a kontraindikace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We hope you enjoy your experience &lt;t0/&gt;with this product!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185907Z" creationid="Radim" creationdate="20180921T185907Z">
+        <seg>Věříme, že vaše zkušenosti s krémem Hondrocream budou nadmíru uspokojivé!</seg>
       </tuv>
     </tu>
     <tu>
