@@ -5,3 +5,4 @@ potency	účinek
 sugar	cukr
 edema	otok
 headaches	bolest hlavy
+control	regulovat
