@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>2) &lt;t0/&gt;Patients interrupted the treatment course before they managed to notice results.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074328Z" creationid="Radim" creationdate="20180921T074328Z">
+        <seg>2) Pacienti přerušili léčbu ještě před začátkem účinku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;#&lt;t1/&gt;healthylife &lt;t2/&gt;#&lt;t3/&gt;diabetes &lt;t4/&gt;#&lt;t5/&gt;bloodsugar</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200257Z" creationid="HP" creationdate="20180920T193548Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193417Z" creationid="HP" creationdate="20180920T193417Z">
         <seg>Detailní recenze výrobku SugaNorm - doplněk stravy, který pomáhá regulovat hladinu cukru v krvi a předcházet cukrovce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not discontinue the intake earlier than in 30 days.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074344Z" creationid="Radim" creationdate="20180921T074344Z">
+        <seg>Nepřerušujte léčbu dříve než po 30 dnech.</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +226,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222115Z" creationid="Radim" creationdate="20180920T222115Z">
         <seg>Nemůže nahradit inzulínové injekce, ale pomáhá snižovat potíže způsobené touto diagnózou: bolesti, neustálou žízeň, nadváhu a další rizika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It helps to conclude that the capsules work very well.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074508Z" creationid="Radim" creationdate="20180921T074508Z">
+        <seg>Díky tomu jsme došli k závěru, že kapsle fungují velmi dobře.</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subheading:&lt;t0/&gt; &lt;t1/&gt;How to &lt;t2/&gt;take capsules fo&lt;t3/&gt;r blood glucose control&lt;t4/&gt;?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074555Z" creationid="Radim" creationdate="20180921T074555Z">
+        <seg>Subheading: Jak regulovat hladinu cukru v krvi užíváním kapslí?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subheading:&lt;t0/&gt; &lt;t1/&gt;Opinions about SugaNorm – doctors and customers &lt;t2/&gt;recommend</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T212139Z" creationid="Radim" creationdate="20180920T212139Z">
@@ -474,6 +506,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195304Z" creationid="Radim" creationdate="20180920T195130Z">
         <seg>Nejčastěji je to z toho důvodu, že se stanou obětmi podvodníků a koupí si tento produkt na nespolehlivé internetové stránce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The percentage of negative reviews about the product is only 8% of all user comments.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074447Z" creationid="Radim" creationdate="20180921T074447Z">
+        <seg>Pouze 8 % uživatelů ze všech recenzí má na náš produkt negativní názor.</seg>
       </tuv>
     </tu>
     <tu>
