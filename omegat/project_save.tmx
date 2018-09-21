@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It means you won’t buy it in pharmacies, brick-and-mortar stores, on Amazon or other marketplaces.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082736Z" creationid="Radim" creationdate="20180921T082736Z">
+        <seg>Což znamená, že tento produkt nekoupíte v lékárnách, kamenných obchodech, na Amazonu nebo jiných prodejnách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It means, you pay once and get a prolonged effect after.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T230243Z" creationid="Radim" creationdate="20180920T230243Z">
@@ -638,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Such a selling method is used to minimize additional expenses and make the price of this innovative product affordable to customers.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082918Z" creationid="Radim" creationdate="20180921T082918Z">
+        <seg>Tato prodejní metoda minimalizuje dodatečné náklady a činí tak tento inovativní produkt cenově dostupný.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SugaNorm capsules &lt;t0/&gt;information&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193400Z" creationid="HP" creationdate="20180920T193400Z">
@@ -866,6 +882,22 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T230005Z" creationid="Radim" creationdate="20180920T230005Z">
         <seg>Tyto kapsle můžete bezpečně přidat ke své léčbě. Kapsle jsem objednal z oficiálních internetových stránek, doručení bylo rychlé a produkt byl bezpečně zabalen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can look up the current price at the official website.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082948Z" creationid="Radim" creationdate="20180921T082948Z">
+        <seg>Aktuální cenu naleznete na oficiálních internetových stránkách prodejce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can place the order directly at the site of authorized sellers&lt;t0/&gt; in your country, and SugaNorm will be shipped to you.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082821Z" creationid="Radim" creationdate="20180921T082821Z">
+        <seg>Kapsle SugaNorm si můžete objednat přímo na internetovách stránkách autorizovaných prodejců ve vaší zemi a objednávka vám bude poslána.</seg>
       </tuv>
     </tu>
     <tu>
