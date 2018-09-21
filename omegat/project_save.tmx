@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patients purchased &lt;t0/&gt;a &lt;t1/&gt;scam product.&lt;t2/&gt; &lt;t3/&gt;Unfortunately, scammers monitor the market, look for effective and &lt;t4/&gt;popular products &lt;t5/&gt;and produce &lt;t6/&gt;imitations.&lt;t7/&gt; You can avoid scams by buying official sellers.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074242Z" creationid="Radim" creationdate="20180921T074242Z">
+        <seg>Pacienti si koupili padělaný produkt. Bohužel, podvodníci trh monitorují a hledají efektivní a populární produkty, které mohou padělat. Podvodům se vyhnete, když budete nakupovat pouze u oficiálních prodejců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Peter Jacobs, &lt;t0/&gt;dietologist</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T212232Z" creationid="Radim" creationdate="20180920T212232Z">
