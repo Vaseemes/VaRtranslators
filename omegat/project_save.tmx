@@ -96,8 +96,8 @@
       <tuv lang="EN-US">
         <seg>&lt;t2/&gt;Do not cease your insulin intake, if prescribed by your doctor.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082235Z" creationid="Radim" creationdate="20180921T082235Z">
-        <seg>Nikdy nepřerušujte příjem inzulínu předepsaný vaším lékařem.</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082330Z" creationid="Radim" creationdate="20180921T082235Z">
+        <seg>Nikdy nepřerušujte dávkování inzulínu předepsané vaším lékařem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +386,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194218Z" creationid="HP" creationdate="20180920T194218Z">
         <seg>Jsou skvělou volbou pro prevenci cukrovky ve stadiu prediabetu: kapsle jsou bezpečné a dobře se vstřebávají.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It may cause life-threatening conditions&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082334Z" creationid="Radim" creationdate="20180921T082320Z">
+        <seg>Přerušení dávkování inzulínu by mohlo ohrozit váš život.</seg>
       </tuv>
     </tu>
     <tu>
