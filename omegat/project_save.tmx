@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t1/&gt;User reviews&lt;t2/&gt; and experience&lt;t3/&gt;, doctor &lt;t4/&gt;recommendation&lt;t5/&gt;, how to &lt;t6/&gt;apply&lt;t7/&gt;, effects, where to buy&lt;t8/&gt; in pharmacies&lt;t9/&gt;, price</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T124435Z" creationid="Radim" creationdate="20180921T124435Z">
+        <seg>Uživatelské recenze a zkušenosti s produkte, doporučení lékařů, jak se produkt používá, účinky krému, místa prodeje, cena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t2/&gt;Do not cease your insulin intake, if prescribed by your doctor.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082330Z" creationid="Radim" creationdate="20180921T082235Z">
@@ -262,10 +270,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heading: &lt;t0/&gt;Hondrocream review: &lt;t1/&gt;opinions&lt;t2/&gt;, application, find in pharmacies</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T124243Z" creationid="Radim" creationdate="20180921T124243Z">
+        <seg>Heading: Recenze produktu Hondrocream: názory, aplikace, místa prodeje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heading: &lt;t0/&gt;SugaNorm caps &lt;t1/&gt;review&lt;t2/&gt;: &lt;t3/&gt;opinions&lt;t4/&gt; and experience, use, find in &lt;t5/&gt;pharmac&lt;t6/&gt;ies</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194057Z" creationid="HP" creationdate="20180920T194057Z">
         <seg>Heading: Recenze kapslí SugaNorm: názory a zkušenosti, použití, k prodeji v lékárnách</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Hondrocream for joints - &lt;t0/&gt;information.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T124321Z" creationid="Radim" creationdate="20180921T124321Z">
+        <seg>Krém na klouby Hondrocream - informace.</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +778,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075053Z" creationid="Radim" creationdate="20180921T075053Z">
         <seg>Kapsle užívejte denně, bez vynechání dávky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Take care of your joints with Hondrocream – comprehensive and detailed review with facts #mobility #painfree #joints</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T124554Z" creationid="Radim" creationdate="20180921T124554Z">
+        <seg>Postarejte se o své klouby s krémem Hondocream - komplexní a detailní přehled produktu #pohyb #bezbolesti #klouby</seg>
       </tuv>
     </tu>
     <tu>
