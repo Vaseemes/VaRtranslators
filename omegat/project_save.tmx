@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Elderflower seeds –&lt;t0/&gt; &lt;t1/&gt;have antibacterial properties and speed up self-healing &lt;t2/&gt;processes;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081247Z" creationid="Radim" creationdate="20180921T081159Z">
+        <seg>Semínka černého bezu - mají antibakteriální účinek a urychlují proces hojení; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Erectile dysfunction and low libido;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211548Z" creationid="Radim" creationdate="20180920T211548Z">
@@ -192,8 +200,8 @@
       <tuv lang="EN-US">
         <seg>Galega officinalis extract – &lt;t0/&gt;improves eye and skin protection on the cellular level&lt;t1/&gt;;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T080946Z" creationid="Radim" creationdate="20180921T080811Z">
-        <seg>Extrakt z Jestřabiny lékařské - zvyšuje ochranu kůže a očí na buněčné úrovni;</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081203Z" creationid="Radim" creationdate="20180921T080811Z">
+        <seg>Extrakt z jestřabiny lékařské - zvyšuje ochranu kůže a očí na buněčné úrovni;</seg>
       </tuv>
     </tu>
     <tu>
@@ -368,8 +376,8 @@
       <tuv lang="EN-US">
         <seg>Milk thistle seeds &lt;t0/&gt;– &lt;t1/&gt;helps to &lt;t2/&gt;control&lt;t3/&gt; blood sugar level in normal range;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T080848Z" creationid="Radim" creationdate="20180921T080705Z">
-        <seg>Semínka Ostropestřce mariánského - pomáhají udržovat hladinu cukru v krvi v normální rozsahu; </seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081206Z" creationid="Radim" creationdate="20180921T080705Z">
+        <seg>Semínka ostropestřce mariánského - pomáhají udržovat hladinu cukru v krvi v normální rozsahu; </seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195842Z" creationid="Radim" creationdate="20180920T195644Z">
         <seg>Abychom ochránili co nejvíce zákazníků, níže naleznete bezpečný odkaz na oficiální webové stránky obchodu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Turmeric –&lt;t0/&gt; &lt;t1/&gt;decreases the chance of diabetes complications and reduces the risk of &lt;t2/&gt;heart and brain diseases;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081058Z" creationid="Radim" creationdate="20180921T081052Z">
+        <seg>Kurkuma - snižuje pravděpodobnost výskytu komplikací cukrovky a snižuje riziko onemocnění srdce a mozku;</seg>
       </tuv>
     </tu>
     <tu>
