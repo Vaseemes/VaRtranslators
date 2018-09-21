@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hondrocream is completely natural and consists of organic lab-tested ingredients.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155022Z" creationid="HP" creationdate="20180921T155022Z">
+        <seg>Hondrocream je naprosto přírodní a skládá se z organických složek testovaných v laboratoři.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hondrocream is positioned on the market as a successful breakthrough, but many customers doubt, if it works indeed.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T124740Z" creationid="Radim" creationdate="20180921T124740Z">
@@ -470,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It improved the condition in 94% of participants in 1 month!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154947Z" creationid="HP" creationdate="20180921T154944Z">
+        <seg>Krém zlepšil stav 94 % pacientů a to již za jeden měsíc!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is a perfect option to prevent diabetes in pre-diabetes state: capsules are safe and easily tolerated.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194218Z" creationid="HP" creationdate="20180920T194218Z">
@@ -482,6 +498,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T083148Z" creationid="Radim" creationdate="20180921T083148Z">
         <seg>Poradenství zákazníkům je zcela zdarma a pro všechny uživatele, bez nutnosti objednávky zboží.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is easily applied and can be combined with anti-inflammation and pain-killing medications for oral intake.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155143Z" creationid="HP" creationdate="20180921T155143Z">
+        <seg>Snadno se aplikuje a může být použit v kombinaci s léky s protizánětlivými účinky a léky od bolesti.</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +730,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211440Z" creationid="Radim" creationdate="20180920T211406Z">
         <seg>Problémy s cirkulací krve, které mohou v extrémních případech vést až k amputaci končetin;Problé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product showed great effectiveness in multi-stage clinical studies with over 300 participants of various age.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154924Z" creationid="HP" creationdate="20180921T154742Z">
+        <seg>Výrobek svou vysokou efektivity prokázal při klinickém testování, kterého se zúčastnilo přes 300 účastníků různých věkových kategorií.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1072,8 +1104,8 @@
       <tuv lang="EN-US">
         <seg>With the help of this cream you can easily forget of the diagnosis that causes pain and joint stiffness.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154736Z" creationid="HP" creationdate="20180921T154736Z">
-        <seg>POmocí tohoto krému můzete snadno zapomenout na diagnózu,  která způsobuje bolest a ztuhlost kloubů.</seg>
+      <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154752Z" creationid="HP" creationdate="20180921T154736Z">
+        <seg>Pomocí tohoto krému můžete snadno zapomenout na diagnózu,  která způsobuje bolest a ztuhlost kloubů.</seg>
       </tuv>
     </tu>
     <tu>
