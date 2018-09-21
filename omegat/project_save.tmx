@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Manufactures refused using intermediaries to deliver the product to customers.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082657Z" creationid="Radim" creationdate="20180921T082657Z">
+        <seg>Výrobci odmítli prodej pomocí prostředníků, kteří by produkt zákazníkům dodávali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many people buy low-quality substitutes without even knowing it.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195544Z" creationid="Radim" creationdate="20180920T195544Z">
@@ -598,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Subheading:&lt;t0/&gt; &lt;t1/&gt;How to buy &lt;t2/&gt;SugaNorm&lt;t3/&gt;, in what pharmacies and &lt;t4/&gt;what’s its &lt;t5/&gt;price –&lt;t6/&gt;link to the &lt;t7/&gt;official website</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082442Z" creationid="Radim" creationdate="20180921T082442Z">
+        <seg>Jak nakupovat výrobek SugaNorm, v jakých obchodech, jaká je jeho cená, odkaz na oficiální webové stránky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Subheading:&lt;t0/&gt; &lt;t1/&gt;Opinions about SugaNorm – doctors and customers &lt;t2/&gt;recommend</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T212139Z" creationid="Radim" creationdate="20180920T212139Z">
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193400Z" creationid="HP" creationdate="20180920T193400Z">
         <seg>Informace o kapslích &lt;t0/&gt;SugaNorm&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>SugaNorm capsules are distributed online only through the website of legit sellers:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082613Z" creationid="Radim" creationdate="20180921T082613Z">
+        <seg>Kapsle Suganorm jsou distribuovány on-line pouze prostřednictvím oficiálních stránek prodejců.</seg>
       </tuv>
     </tu>
     <tu>
