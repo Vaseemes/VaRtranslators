@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Galega officinalis extract – &lt;t0/&gt;improves eye and skin protection on the cellular level&lt;t1/&gt;;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T080946Z" creationid="Radim" creationdate="20180921T080811Z">
+        <seg>Extrakt z Jestřabiny lékařské - zvyšuje ochranu kůže a očí na buněčné úrovni;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Heading: &lt;t0/&gt;SugaNorm caps &lt;t1/&gt;review&lt;t2/&gt;: &lt;t3/&gt;opinions&lt;t4/&gt; and experience, use, find in &lt;t5/&gt;pharmac&lt;t6/&gt;ies</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T194057Z" creationid="HP" creationdate="20180920T194057Z">
@@ -360,8 +368,8 @@
       <tuv lang="EN-US">
         <seg>Milk thistle seeds &lt;t0/&gt;– &lt;t1/&gt;helps to &lt;t2/&gt;control&lt;t3/&gt; blood sugar level in normal range;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T080705Z" creationid="Radim" creationdate="20180921T080705Z">
-        <seg>Semínka Ostropestřce Mariánského - pomáhají udržovat hladinu cukru v krvi v normální rozsahu; </seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T080848Z" creationid="Radim" creationdate="20180921T080705Z">
+        <seg>Semínka Ostropestřce mariánského - pomáhají udržovat hladinu cukru v krvi v normální rozsahu; </seg>
       </tuv>
     </tu>
     <tu>
