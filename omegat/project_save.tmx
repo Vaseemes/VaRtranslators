@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Eucalyptus oil – &lt;t0/&gt;warms up, fights degeneration processes and pain;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184210Z" creationid="Radim" creationdate="20180921T184210Z">
+        <seg>Eukalyptový olej - pomáhá zmírnit procesy degenerace a zmírňuje bolest; má hřejivé účinky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Eye diseases leading to impaired vision;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211409Z" creationid="Radim" creationdate="20180920T211350Z">
@@ -416,8 +424,8 @@
       <tuv lang="EN-US">
         <seg>Fir needle essential oil –&lt;t0/&gt; has scientifically tested efficacy in relieving inflammation and &lt;t1/&gt;stagnation processes in &lt;t2/&gt;joints;</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184040Z" creationid="Radim" creationdate="20180921T184040Z">
-        <seg>Olej z jedle balzámové - má vědecky testované účinky na léčbu zánětu a procesů ustrnutí v kloubech</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184048Z" creationid="Radim" creationdate="20180921T184040Z">
+        <seg>Olej z jedle balzámové - má vědecky testované účinky na léčbu zánětu a procesu ustrnutí v kloubech</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +530,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T124658Z" creationid="Radim" creationdate="20180921T124658Z">
         <seg>Hondrocream - silný protizánětlivý krém na klouby a vazy, který tiší bolest;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Horse chestnut oil – &lt;t0/&gt;improves the blood circulation around the damaged tissues and promotes self-restoration activity;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184303Z" creationid="Radim" creationdate="20180921T184303Z">
+        <seg>Olej z kaštanovníku - zlepšuje krevní oběh v oblasti poškozené tkáně a podporuje proces léčení; </seg>
       </tuv>
     </tu>
     <tu>
@@ -898,6 +914,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T195544Z" creationid="Radim" creationdate="20180920T195544Z">
         <seg>Mnoho lidí kupuje náhrašky nízké kvality, aniž by o tom věděli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Menthol –&lt;t0/&gt; 100% natural &lt;t1/&gt;analgesic&lt;t2/&gt; substance to eliminate pain and discomfort; powers up the combination of other ingredients;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184412Z" creationid="Radim" creationdate="20180921T184412Z">
+        <seg>Mentol - 100% přírodní analgetikum, které eliminuje bolest; posiluje funkci dalších přísad;</seg>
       </tuv>
     </tu>
     <tu>
