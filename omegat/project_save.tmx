@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>1)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074758Z" creationid="Radim" creationdate="20180921T074758Z">
+        <seg>1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>2) &lt;t0/&gt;Patients interrupted the treatment course before they managed to notice results.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074328Z" creationid="Radim" creationdate="20180921T074328Z">
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you want &lt;t0/&gt;to find out&lt;t1/&gt;, how to &lt;t2/&gt;take SugaNorm properly&lt;t3/&gt;, &lt;t4/&gt;refer to the information of the label or follow the instructions below:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074755Z" creationid="Radim" creationdate="20180921T074755Z">
+        <seg>Pro správnou indikaci produktu SugaNorm se řiďte informacemi na obalu a nebo instrukcemi níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Impaired stomach function;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211619Z" creationid="Radim" creationdate="20180920T211619Z">
@@ -210,6 +226,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193829Z" creationid="HP" creationdate="20180920T193829Z">
         <seg>Instagram:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instructions on how to &lt;t5/&gt;take SugaNorm</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074611Z" creationid="Radim" creationdate="20180921T074611Z">
+        <seg>Pokyny pro použití produktu SugaNorm</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +570,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T224633Z" creationid="Radim" creationdate="20180920T224633Z">
         <seg>Tento doplněk stravy může pomoci předcházet komplikacím a pacient se bude cítit mnohem lépe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are 30 capsules per package: i.e. a full month supply.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074935Z" creationid="Radim" creationdate="20180921T074935Z">
+        <seg>Balení obsahuje 30 kapslí: tedy dávkování na celý měsíc</seg>
       </tuv>
     </tu>
     <tu>
