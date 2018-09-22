@@ -2310,6 +2310,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vitamin B1 is involved in carbohydrate and fatty acid metabolism, which influences the energy production process; B2 &lt;t0/&gt;helps the body break down carbohydrates, proteins and fats to produce energy; &lt;t1/&gt;B6 is important for protein metabolism; B12 helps to maintain healthy red blood cells &amp; supports blood vessel health.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T111359Z" creationid="Radim" creationdate="20180922T111359Z">
+        <seg>Vitamín B1 se podílí na látkové výměně sacharidů a mastných kyselin, což ovlivňuje přeměnu živin na energii; Vitamín B2 pomáhá tělu přeměnit karbohydráty, proteiny a tuky na energii; Vitamín B6 je důležitý při látkové výměně proteinů; Vitamín B12 udržuje zdravé červené krvinky a zlepšuje zdraví cév.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vitamins B1, B2, B6, B12</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110900Z" creationid="Radim" creationdate="20180922T110900Z">
+        <seg>Vitamíny B1, B2, B6, B12 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We collected most informative reviews from healthcare specialists and users.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T160229Z" creationid="HP" creationdate="20180921T160229Z">
