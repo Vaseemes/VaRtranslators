@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Content per container:&lt;t0/&gt; 60 capsules</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124800Z" creationid="Radim" creationdate="20180922T124800Z">
+        <seg>Obsah balení: 60 kapslí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contraindications to product use include young age (under 18), pregnancy and breastfeeding.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081858Z" creationid="Radim" creationdate="20180921T081858Z">
@@ -642,6 +650,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101854Z" creationid="Radim" creationdate="20180922T101854Z">
         <seg>Specialista na cukrovku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Directions for use:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124655Z" creationid="Radim" creationdate="20180922T124655Z">
+        <seg>Jak se Glycozal užívá:</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,8 +912,8 @@
       <tuv lang="EN-US">
         <seg>Glycozal is a food supplement to lower and control blood sugar in a natural way.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124614Z" creationid="Radim" creationdate="20180922T124614Z">
-        <seg>Glycozal je potravinový doplněk </seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124637Z" creationid="Radim" creationdate="20180922T124614Z">
+        <seg>Glycozal je doplněk stravy, který snižuje a udržuje hladinu cukru v krvi přírodní cestou.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1870,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nutritional facts</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124745Z" creationid="Radim" creationdate="20180922T124745Z">
+        <seg>Nutriční hodnoty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ORDER NOW</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101502Z" creationid="Radim" creationdate="20180922T101502Z">
@@ -2162,6 +2186,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155323Z" creationid="HP" creationdate="20180921T155323Z">
         <seg>Podporuje poúrazová a pooperační zotavení;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Recommended daily intake: Take 1 x 1 capsule with plenty of water</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124728Z" creationid="Radim" creationdate="20180922T124728Z">
+        <seg>Doporučený denní příjem: vezměte si 1 tobolku denně a zapijte velkým množstvím vody</seg>
       </tuv>
     </tu>
     <tu>
@@ -3194,6 +3226,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121729Z" creationid="Radim" creationdate="20180922T121729Z">
         <seg>jenom pár týdnů - nevyskytly se žádné vedlejší účinky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>per 100 g</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124808Z" creationid="Radim" creationdate="20180922T124808Z">
+        <seg>na 100 g </seg>
       </tuv>
     </tu>
     <tu>
