@@ -2510,6 +2510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Results can vary and there is no guarantee of specific results. Scientific studies suggest that Glycozal ingredients promote blood sugar health by supporting the 3 essentials of blood sugar metabolism: glucose absorption from food (ADA Care), glucose production in the body (US National Library of Medicine) and glucose uptake into cells (National Institutes of Health).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T134311Z" creationid="Radim" creationdate="20180922T134311Z">
+        <seg>Výsledky se mohou lišit a neexistují žádné záruky konkrétních výsledků. Vědecké studie naznačují, že složky Glycozalu podporují zlepšení stavu hladiny cukru v krvi podporou 3 základních funkcí metabolismu krevního oběhu: absorpci glukózy z jídla (ADA Care), produkci glukózy v těle (US National Library of Medicine) a příjem absorpci glukózy buňkami (National Institues of Health).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Rich in antioxidants, it also has anti-clotting effect on the blood.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104306Z" creationid="Radim" creationdate="20180922T104306Z">
@@ -3178,6 +3186,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T180728Z" creationid="Radim" creationdate="20180921T180728Z">
         <seg>Tento produkt je jiný. Jeho složení se skládá z bylinných extraktů, přírodních substancí a olejů, které pomáhají bojovat s bolestí a otoky, aniž by ohrozil vaše zdraví.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product is not intended to diagnose, treat, cure or prevent any disease.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133850Z" creationid="Radim" creationdate="20180922T133850Z">
+        <seg>Tento produkt není určen k diagnostice, léčbě, léčení nebo prevenci jakékoli choroby.</seg>
       </tuv>
     </tu>
     <tu>
