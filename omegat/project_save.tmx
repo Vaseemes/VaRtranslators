@@ -1654,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is recommended that users follow a strict diet and exercise regimen to achieve weight loss results.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T134644Z" creationid="Radim" creationdate="20180922T134644Z">
+        <seg>Doporučujeme aby uživatelé dodržovali přísnou dietu a věnovali se pohybovým aktivitám, aby se dosáhlo výsledku hubnutí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It may cause life-threatening conditions&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082334Z" creationid="Radim" creationdate="20180921T082320Z">
@@ -3234,6 +3242,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183737Z" creationid="Radim" creationdate="20180921T183737Z">
         <seg>Terpentýnový olej - léčí chronickou bolest a podporuje hojení kloubů po zranění; pomáhá zmírnit bolesti spojené se změnami počasí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Two human clinical trials suggest that ingestion of Glycozal can lead to a reduction in weight or body fat, copies of which may be found here: Obesity Journal and Evidence-Based Complimentary and Alternative Medicine.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T134505Z" creationid="Radim" creationdate="20180922T134505Z">
+        <seg>Dvě klinická testování s lidmi naznačují, že užívání Glycozalu může vést k redukci váhy, kopie těchto testování mohou být nalezeny zde: Obesity Journal and Evidence-Based Complimentary and Alternative Medicine</seg>
       </tuv>
     </tu>
     <tu>
