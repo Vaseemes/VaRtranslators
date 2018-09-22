@@ -950,6 +950,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>IMPORTANT FACTS ABOUT GLYCOZAL</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115516Z" creationid="Radim" creationdate="20180922T115516Z">
+        <seg>DŮLEŽITÉ INFORMACE O GLYCOZALU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If there are names of people in the text, please replace them with names that sound natural &lt;t0/&gt;and &lt;t1/&gt;are quite popular in your region.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T190009Z" creationid="Radim" creationdate="20180921T190009Z">
@@ -2270,6 +2278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The formula is so powerful that in a 2008 clinical study published worldwide, just one of the ingredients delivered dramatic results:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115750Z" creationid="Radim" creationdate="20180922T115750Z">
+        <seg>Složení je neskutečně silné. Ve studii z roku 2008 bylo publikováno, že pouze jedna složka měla dramatické výsledky:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The full formula of Hondrocream &lt;t0/&gt;is&lt;t1/&gt; patented and is not a subject for disclosure&lt;t2/&gt;.&lt;t3/&gt; It is 100% natural and hypoallergenic.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183129Z" creationid="Radim" creationdate="20180921T183129Z">
@@ -2778,6 +2794,30 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180920T073331Z" creationid="Pan Václav" creationdate="20180920T072828Z">
         <seg>[00:00:00] Zkouška dvě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>easy to use</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115453Z" creationid="Radim" creationdate="20180922T115453Z">
+        <seg>snadno se používá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>promotes normal blood sugar levels</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115506Z" creationid="Radim" creationdate="20180922T115506Z">
+        <seg>podporuje normální hladinu cukru v krvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>works fast</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115448Z" creationid="Radim" creationdate="20180922T115448Z">
+        <seg>funguje rychle</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
