@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;strong&gt;&lt;t0/&gt;Glycozal&lt;t1/&gt;&lt;/strong&gt;&lt;t2/&gt;  combines 13 natural ingredients carefully selected on the basis of 135 clinical and laboratory research studies - in the most concentrated, bio-available forms and the right dosages - putting them into one easy-to-take capsule.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T141145Z" creationid="Radim" creationdate="20180922T141145Z">
+        <seg>&lt;strong&gt;&lt;t0/&gt;Glycozal&lt;t1/&gt;&lt;/strong&gt;&lt;t2/&gt; kombinuje 13 přírodních složek, které byly pečlivě vybrány na základě 135 klinických a laboratorních studií. Přísady jsou bio, koncentrovány do správné dávky. To vše v jedné kapsli která se snadno polyká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;strong&gt;&lt;t0/&gt;When you target any one of the 3 Essentials,&lt;t1/&gt;&lt;/strong&gt;&lt;t2/&gt; you will improve your blood sugar levels.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T140406Z" creationid="Radim" creationdate="20180922T140406Z">
@@ -578,6 +586,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110849Z" creationid="Radim" creationdate="20180922T110849Z">
         <seg>Jako antioxidant je užitečný v předcházení srdečním nemocem u lidí s cukrovkou II. typu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Being overweight and having high blood sugar levels often go hand in hand, because they can share the same root cause called "insulin resistance." &lt;t0/&gt;&lt;strong&gt;&lt;t1/&gt;Supporting the 3 Essentials&lt;t2/&gt;&lt;/strong&gt;&lt;t3/&gt; not only promotes normal blood sugar, but also promotes weight loss, which can then improve your blood sugar even further.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T141442Z" creationid="Radim" creationdate="20180922T141442Z">
+        <seg>Mít nadváhu a vyokou hladinu cukru v krvi často způsobuje stejný problém, který se nazývá „inzulinová rezistence“. &lt;t0/&gt;&lt;strong&gt;&lt;t1/&gt;3 základní prvky&lt;t2/&gt;&lt;/strong&gt;&lt;t3/&gt; nejen, že udržují správnou hladinu cukru v krvi, ale také podporují hubnutí, což může uroveň cukru v krvi ještě vylepšit.</seg>
       </tuv>
     </tu>
     <tu>
