@@ -62,6 +62,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>** No nutrient reference values available</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133438Z" creationid="Radim" creationdate="20180922T133430Z">
+        <seg>** Nejsou k dispozici žádné referenční hodnoty živin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>*Percent of nutrient reference values (NRV), according to Regulation (EU) no 1169/2011</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133607Z" creationid="Radim" creationdate="20180922T133436Z">
+        <seg>*Procenta referenčních hodnot pro příjem živin (NRV), dle regulace EU č. 1169/2011 (</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Blood Suger Control -</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094605Z" creationid="Radim" creationdate="20180922T094605Z">
@@ -562,6 +578,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183554Z" creationid="Radim" creationdate="20180921T183554Z">
         <seg>Extrakt kajenského pepře - pomáhá dalším přísadám proniknout hlouběji do tkáně, prohřívá svaly a vazy;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Choose One or More of the Following:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133346Z" creationid="Radim" creationdate="20180922T133346Z">
+        <seg>Zvolte jednu nebo více z následujících možností:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How It Works</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133319Z" creationid="Radim" creationdate="20180922T133319Z">
+        <seg>Jak přípravek funguje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, there are some negative feedback out there.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182103Z" creationid="Radim" creationdate="20180921T182103Z">
@@ -1434,6 +1466,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113332Z" creationid="Radim" creationdate="20180922T113240Z">
         <seg>Zvyšuje buněčnou absorpci glukózy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ingrediaents</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133323Z" creationid="Radim" creationdate="20180922T133323Z">
+        <seg>Přísady</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Testimonials</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133328Z" creationid="Radim" creationdate="20180922T133328Z">
+        <seg>Doporučení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tests show great product tolerability and efficacy &lt;t1/&gt;and revealed no side effects.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184945Z" creationid="Radim" creationdate="20180921T184945Z">
@@ -3058,6 +3106,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184744Z" creationid="Radim" creationdate="20180921T184744Z">
         <seg>Ve všech zemích, kde je Hondrocream k dispozici k prodeji, obdržely tyto přísady certifikáty nejvyšší jakosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These statements have not been evaluated by the Food and Drug Administration.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133832Z" creationid="Radim" creationdate="20180922T133832Z">
+        <seg>Tyto prohlášení nebyly posuzovány Úřadem pro kontrolu potravin a léčiv (FDA).</seg>
       </tuv>
     </tu>
     <tu>
