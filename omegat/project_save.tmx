@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>"I ordered Glycozal and WOW.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122117Z" creationid="Radim" creationdate="20180922T122117Z">
+        <seg>„Objednal jsem si Glycozal a byl jsem neskutečně překvapen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"I've been using Glycozal for 3 weeks, and I love it.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121627Z" creationid="Radim" creationdate="20180922T120401Z">
@@ -1646,6 +1654,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Numbers Averaging 100-120</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121956Z" creationid="Radim" creationdate="20180922T121956Z">
+        <seg>Hladina v průměru mezi 100-120</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>ORDER NOW</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101502Z" creationid="Radim" creationdate="20180922T101502Z">
@@ -2318,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thank you!"*</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121802Z" creationid="Radim" creationdate="20180922T121802Z">
+        <seg>Vřele všem doporučuji!“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Thanks for attention and good luck!</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T190011Z" creationid="Radim" creationdate="20180921T190011Z">
@@ -2914,6 +2938,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115448Z" creationid="Radim" creationdate="20180922T115448Z">
         <seg>funguje rychle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>–Mary, Birmingham</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121813Z" creationid="Radim" creationdate="20180922T121813Z">
+        <seg>Jitka, Olomouc</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
