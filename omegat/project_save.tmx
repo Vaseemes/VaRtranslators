@@ -320,8 +320,8 @@
       <tuv lang="EN-US">
         <seg>According to the opinion of the Scientific Group on Food Chemistry Experts of the Länder (ALS) and the Federal Office for Consumer Protection and Food Safety (BVL), free amino acids and special nitrogen-containing ingredients, e.g. L-carnitine in the nutritional table are not included in the term "protein".</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125409Z" creationid="Radim" creationdate="20180922T125409Z">
-        <seg>Podle stanoviska vědecké skupiny potravinářské chemie (ALS) a federálního úřadu pro ochranu spotřebitele a bezpečnosti potravin (BVL), nejsou volné aminokyseliny a speciální přísady obsahující dusík, například L-karnitin, v tabulce nutričních hodnot zahrnuty pod termínem „protein“.</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125434Z" creationid="Radim" creationdate="20180922T125409Z">
+        <seg>Podle stanoviska vědecké skupiny potravinářské chemie (ALS) a federálního úřadu pro ochranu spotřebitele a bezpečnosti potravin (BVL), nejsou volné aminokyseliny a speciální přísady obsahující dusík, například L-karnitin, v tabulce nutričních hodnot zahrnuty pod termínem „Bílkoviny“.</seg>
       </tuv>
     </tu>
     <tu>
@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apple cider vinegar extract</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125621Z" creationid="Radim" creationdate="20180922T125621Z">
+        <seg>Extrakt z jablečného octa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apply it and gently rub until the cream is partially absorbed.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182850Z" creationid="Radim" creationdate="20180921T182850Z">
@@ -494,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bitter melon fruit extract</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125714Z" creationid="Radim" creationdate="20180922T125714Z">
+        <seg>Extrakt z plodů Momordica charantia (karela)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boosts natural collagen synthesis for self-restoration;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155846Z" creationid="HP" creationdate="20180921T155846Z">
@@ -546,6 +562,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104326Z" creationid="Radim" creationdate="20180922T104011Z">
         <seg>Extrakt skořice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cinnamon extract</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125545Z" creationid="Radim" creationdate="20180922T125545Z">
+        <seg>Skořicový extrakt</seg>
       </tuv>
     </tu>
     <tu>
@@ -929,6 +953,14 @@
         <seg>Garcinia Cambogia Fruit Extract</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105703Z" creationid="Radim" creationdate="20180922T104322Z">
+        <seg>Extrakt z plodů Garcinia Cambogia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Garcinia cambogia fruit extract</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125553Z" creationid="Radim" creationdate="20180922T125553Z">
         <seg>Extrakt z plodů Garcinia Cambogia</seg>
       </tuv>
     </tu>
@@ -1934,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Nutrients or other substances</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125538Z" creationid="Radim" creationdate="20180922T125538Z">
+        <seg>Živiny nebo jiné látky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nutritional facts</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124745Z" creationid="Radim" creationdate="20180922T124745Z">
@@ -2242,6 +2282,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124952Z" creationid="Radim" creationdate="20180922T124952Z">
         <seg>Bílkoviny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protein means e.g. protein hydrolysates, protein concentrates etc.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125525Z" creationid="Radim" creationdate="20180922T125416Z">
+        <seg>Bílkoviny jsou například bílkovinné hydrolyzáty, koncentráty atd.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,10 +2950,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There of hydroxycitric acid</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125705Z" creationid="Radim" creationdate="20180922T125615Z">
+        <seg>Z toho kyselina hydroxycitrónová.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There were many, but one especially caught my attention by its many users and positive testimonials.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T123232Z" creationid="Radim" creationdate="20180922T123232Z">
         <seg>Našla jsem jich mnoho, ale jeden měl více pozitivních recenzí a hlavně vyšší počet uživatelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thereof malic acid</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125700Z" creationid="Radim" creationdate="20180922T125700Z">
+        <seg>Z toho kyselina jablečná</seg>
       </tuv>
     </tu>
     <tu>
