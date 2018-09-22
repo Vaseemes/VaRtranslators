@@ -470,6 +470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Connie's fasting sugar is averaging 90 to 95 (she's 35 kg lighter now).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T114843Z" creationid="Radim" creationdate="20180922T114843Z">
+        <seg>Martinina hladina cukru při půstu je v průměru 90 až 95 (nyní je o 35 kg lehčí).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consumed at bedtime, it reduces fasting blood glucose in the morning as well and promotes insulin production.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105642Z" creationid="Radim" creationdate="20180922T105642Z">
