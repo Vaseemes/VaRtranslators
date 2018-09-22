@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;strong&gt;&lt;t0/&gt;When you target any one of the 3 Essentials,&lt;t1/&gt;&lt;/strong&gt;&lt;t2/&gt; you will improve your blood sugar levels.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T140406Z" creationid="Radim" creationdate="20180922T140406Z">
+        <seg>&lt;strong&gt;&lt;t0/&gt;Když se zaměříte aspoň na 1 z těchto 3 základních prvků,&lt;t1/&gt;&lt;/strong&gt;&lt;t2/&gt; zlepšíte svou úroveň hladiny cukru v krvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;t0/&gt;#&lt;t1/&gt;healthylife &lt;t2/&gt;#&lt;t3/&gt;diabetes &lt;t4/&gt;#&lt;t5/&gt;bloodsugar</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200257Z" creationid="HP" creationdate="20180920T193548Z">
@@ -1066,6 +1074,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125553Z" creationid="Radim" creationdate="20180922T125553Z">
         <seg>Extrakt z plodů Garcinia Cambogia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glycozal Helps You Finally Have The Chance To Support Healthy Blood Sugar &amp; Body Weight &lt;t0/&gt;&lt;span class="green-txt"&gt;&lt;t1/&gt;Naturally!&lt;t2/&gt;&lt;/span&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T140158Z" creationid="Radim" creationdate="20180922T140158Z">
+        <seg>Glycozal vám konečně poskytne šanci zlepšit své zdraví, udržovat hladinu cukru v krvi a snížit svou váhu a to vše  &lt;t0/&gt;&lt;span class="green-txt"&gt;&lt;t1/&gt;přírodní cestou!&lt;t2/&gt;&lt;/span&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2034,6 +2050,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T181116Z" creationid="Radim" creationdate="20180921T181116Z">
         <seg>Mnoho klientů našeho centra se mohou během pouhého měsíce vrátit zpět do posilovny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most people aren't aware of the &lt;t0/&gt;&lt;strong&gt;&lt;t1/&gt;"3 Essentials for Normal Blood Sugar": &lt;t2/&gt;&lt;/strong&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T140249Z" creationid="Radim" creationdate="20180922T140249Z">
+        <seg>Většina lidí neví o &lt;t0/&gt;&lt;strong&gt;&lt;t1/&gt;„3 základní prvky pro správnou hladinu cukru v krvi“: &lt;t2/&gt;&lt;/strong&gt;</seg>
       </tuv>
     </tu>
     <tu>
