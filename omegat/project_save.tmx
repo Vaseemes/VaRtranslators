@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Diabetes Specialist</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101854Z" creationid="Radim" creationdate="20180922T101854Z">
+        <seg>Specialista na cukrovku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Do not discontinue the intake earlier than in 30 days.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074344Z" creationid="Radim" creationdate="20180921T074344Z">
@@ -1238,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NATURAL KEY INGREDIENTS: NORMALIZE BLOOD SUGAR LEVELS NATURALLY OR TAKE IT AS A PREVENTION</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T103608Z" creationid="Radim" creationdate="20180922T103608Z">
+        <seg>HLAVNÍ PŘÍRODNÍ PŘÍSADY: REGULUJÍ HLADINU CUKRU V KRVI A FUNGUJÍ JAKO PREVENCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>NOTE:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094352Z" creationid="Radim" creationdate="20180922T094352Z">
@@ -1430,10 +1446,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Promote better circulatory, blood vessel and heart health</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101758Z" creationid="Radim" creationdate="20180922T101758Z">
+        <seg>Podporuje lepší krevní oběh, krevní tělíska a zdraví srdce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Promote better insulin production and sensitivity</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101712Z" creationid="Radim" creationdate="20180922T101712Z">
         <seg>Podporuje lepší produkci inzulínu a zvyšuje citlivost k inzulínu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Promote healthy energy</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101839Z" creationid="Radim" creationdate="20180922T101839Z">
+        <seg>Zvyšuje energii člověka</seg>
       </tuv>
     </tu>
     <tu>
@@ -1458,6 +1490,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101619Z" creationid="Radim" creationdate="20180922T101619Z">
         <seg>Snižuje nárůst hladiny cukru v krvi po jídle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduce weight in a healthy way</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101737Z" creationid="Radim" creationdate="20180922T101737Z">
+        <seg>Pomáhá zdravým způsobem snížit váhu</seg>
       </tuv>
     </tu>
     <tu>
