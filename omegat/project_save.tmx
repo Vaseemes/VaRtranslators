@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Insulin directs cells to uptake glucose from the blood to use as energy.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113117Z" creationid="Radim" creationdate="20180922T113117Z">
+        <seg>Inzulín řídí buňky, aby absorbovali glukózu v krvi a přeměnit ji na energii.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Introduction:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193823Z" creationid="HP" creationdate="20180920T193823Z">
@@ -2062,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE SIMPLE SECRET FOR PROMOTING NORMAL BLOOD SUGAR</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113226Z" creationid="Radim" creationdate="20180922T113226Z">
+        <seg>JEDNODUCHÉ TAJEMSTVÍ PRO PODPORU SPRÁVNÉ HLADINY CUKRU V KRVI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>THE SIMPLE SECRET TO NORMAL BLOOD SUGAR LEVELS</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T100230Z" creationid="Radim" creationdate="20180922T100230Z">
@@ -2490,6 +2506,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185907Z" creationid="Radim" creationdate="20180921T185907Z">
         <seg>Věříme, že vaše zkušenosti s krémem Hondrocream budou nadmíru uspokojivé!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When cells are sensitive to insulin, then glucose uptake stays normal and contributes to healthy blood sugar levels.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113203Z" creationid="Radim" creationdate="20180922T113203Z">
+        <seg>Když jsou buňky na inzulin citlivé, zůstane absorpce glukózy v normě, což přispívá ke zdravé hladině cukru v krvi.</seg>
       </tuv>
     </tu>
     <tu>
