@@ -1678,6 +1678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is not intended as and should not be relied upon as medical advice.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135313Z" creationid="Radim" creationdate="20180922T135313Z">
+        <seg>Nejsou určeny jako lékařská pomoc a neměly by tak být posuzovány.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is recommended that users follow a strict diet and exercise regimen to achieve weight loss results.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T134652Z" creationid="Radim" creationdate="20180922T134644Z">
@@ -1714,6 +1722,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182737Z" creationid="Radim" creationdate="20180921T182737Z">
         <seg>Měla by být suchá a čistá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should not be used if you are pregnant or nursing.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135222Z" creationid="Radim" creationdate="20180922T135222Z">
+        <seg>Nepoužívejte přípravek Glycozal, jestliže jste těhotná nebo kojíte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,6 +2978,22 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183129Z" creationid="Radim" creationdate="20180921T183129Z">
         <seg>Celkové složení krému Hondocream je patentovaným obchodním tajemstvím a není předmětem pro zveřejnění. Je 100% přírodní a hypoalergenní. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The information contained in this Website is provided for general informational purposes only.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135251Z" creationid="Radim" creationdate="20180922T135251Z">
+        <seg>INofrmace obsažené na této internetové stránce jsou poskytnuty pro obecné informativní účely.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The information may not apply to you and before you use any of the information provided in the site, you should contact a qualified medical, dietary, fitness or other appropriate professional.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135459Z" creationid="Radim" creationdate="20180922T135459Z">
+        <seg>Informace se na vás nemusí vztahovat. Předtím než využijete některou z informací poskytnutou na této síti byste měli kontaktovat kvalifikovaného lékaře, dietologa, fitness trenéra nebo jiného specialistu.</seg>
       </tuv>
     </tu>
     <tu>
