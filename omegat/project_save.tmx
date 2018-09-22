@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And continue to always monitor one's blood sugar closely.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135045Z" creationid="Radim" creationdate="20180922T135031Z">
+        <seg>A neustále kontrolujte svou hladinu cukru v krvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And when you consume excessive sugar and carbs, it’s more difficult to keep your blood sugar in the normal range.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112403Z" creationid="Radim" creationdate="20180922T112403Z">
@@ -474,6 +482,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112641Z" creationid="Radim" creationdate="20180922T112641Z">
         <seg>Jak stárneme - nebo pokud nejsme optimálně zdraví - funkce těchto hormonů a enzymů může být narušena, což způsobuje vyšší produkci glukózy, než je nutné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As with any natural supplement, we always recommend first consulting one's doctor before taking Glycozal® with - or in place of - medications.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135007Z" creationid="Radim" creationdate="20180922T135000Z">
+        <seg>Stejně jako u všech přírodních doplňků stravy doporučujeme aby se zákazník před začátkem užívání doplňku Glycozal® s nebo místo léků poradil se svým lékařem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,10 +3230,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This product is not for use by or sale to persons under the age of 18.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135104Z" creationid="Radim" creationdate="20180922T135104Z">
+        <seg>Tento produkt není určen k užívání pro osoby mladší 18 let.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This product is not intended to diagnose, treat, cure or prevent any disease.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133850Z" creationid="Radim" creationdate="20180922T133850Z">
         <seg>Tento produkt není určen k diagnostice, léčbě, léčení nebo prevenci jakékoli choroby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This product should be used only as directed on the label.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135138Z" creationid="Radim" creationdate="20180922T135138Z">
+        <seg>Tento produkt používejte pouze dle pokynů na štítku. </seg>
       </tuv>
     </tu>
     <tu>
