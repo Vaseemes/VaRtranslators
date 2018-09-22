@@ -1414,6 +1414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>MEET THE PEOPLE WHO BENEFIT FROM GLYCOZAL AND HEAR THEIR IMPRESSIVE STORIES</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T120307Z" creationid="Radim" creationdate="20180922T120307Z">
+        <seg>POZNEJTE LIDI, KTERÝM GLYCOZAL POMOHL A ZJISTĚTE JEJICH ZAJÍMAVÉ PŘÍBĚHY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Maintain normal blood sugar levels</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101531Z" creationid="Radim" creationdate="20180922T101531Z">
@@ -1806,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Promoted healthy cholesterol substantially</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T120025Z" creationid="Radim" creationdate="20180922T120025Z">
+        <seg>Udržuje hladinu zdravého cholesterolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Promoted normal blood sugar substantially</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115951Z" creationid="Radim" creationdate="20180922T115921Z">
@@ -1814,10 +1830,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Promotes Healthy Insulin Sensitivity &amp; Production</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T120102Z" creationid="Radim" creationdate="20180922T120102Z">
+        <seg>Podporuje zdravou produkci a citlivost k inzulinu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Promotes Heart, Blood Vessel &amp; Circulatory Health</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T111837Z" creationid="Radim" creationdate="20180922T111837Z">
         <seg>Podporuje funkci srdce, cév a oběhového systému</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Promotes Normal Blood Sugar Levels</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T120124Z" creationid="Radim" creationdate="20180922T120124Z">
+        <seg>Udržuje správnou hladinu cukru v krvi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,6 +1914,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T111734Z" creationid="Radim" creationdate="20180922T111734Z">
         <seg>Snižuje produkci glukózy v játrech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces Post-Meal Blood Sugar Elevations</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T120150Z" creationid="Radim" creationdate="20180922T120150Z">
+        <seg>Snižuje nárůst hladiny cukru v krvi po jídle</seg>
       </tuv>
     </tu>
     <tu>
@@ -2162,6 +2202,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101543Z" creationid="Radim" creationdate="20180922T101543Z">
         <seg>Podporuje normální hladinu lipidů v krvi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Supports Healthy Weight Loss</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T120206Z" creationid="Radim" creationdate="20180922T120206Z">
+        <seg>Podporuje zdravé hubnutí</seg>
       </tuv>
     </tu>
     <tu>
