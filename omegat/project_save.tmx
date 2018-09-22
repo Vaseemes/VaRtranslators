@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>"I've been using Glycozal for 3 weeks, and I love it.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T120401Z" creationid="Radim" creationdate="20180922T120401Z">
-        <seg>"</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121627Z" creationid="Radim" creationdate="20180922T120401Z">
+        <seg>„Glycozal používám 3 týdny a jsem s ním naprosto spokojená.</seg>
       </tuv>
     </tu>
     <tu>
@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Even though I had started taking it not long ago ….</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121707Z" creationid="Radim" creationdate="20180922T121707Z">
+        <seg>I když ho užívám jen krátkou dobu ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113407Z" creationid="Radim" creationdate="20180922T113407Z">
@@ -786,6 +794,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T103938Z" creationid="Radim" creationdate="20180922T103938Z">
         <seg>Glycozal kombinuje 10 přírodních přísad, které byly pečlivě vybrány na základě 144 klinických a laboratorních studií. Přísady jsou bio, koncentrovány do správné dávky. To vše v jedné kapsli která se snadno polyká.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Glycozal have drown my blood sugar levels steady at 95.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121746Z" creationid="Radim" creationdate="20180922T121746Z">
+        <seg>Glycozal udržuje můj cukr na stabilních 95.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2874,6 +2890,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115453Z" creationid="Radim" creationdate="20180922T115453Z">
         <seg>snadno se používá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>for such a short period - no side effects.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121729Z" creationid="Radim" creationdate="20180922T121729Z">
+        <seg>jenom pár týdnů - nevyskytly se žádné vedlejší účinky.</seg>
       </tuv>
     </tu>
     <tu>
