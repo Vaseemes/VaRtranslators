@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Being and antioxidant, its supplementation may be useful in warding off heart disease in people with Type II diabetes.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110849Z" creationid="Radim" creationdate="20180922T110849Z">
+        <seg>Jako antioxidant je užitečný v předcházení srdečním nemocem u lidí s cukrovkou II. typu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bitter Melon Fruit Extract</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105845Z" creationid="Radim" creationdate="20180922T105659Z">
@@ -394,6 +402,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183554Z" creationid="Radim" creationdate="20180921T183554Z">
         <seg>Extrakt kajenského pepře - pomáhá dalším přísadám proniknout hlouběji do tkáně, prohřívá svaly a vazy;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Chromium</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110529Z" creationid="Radim" creationdate="20180922T110529Z">
+        <seg>Chrom</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081347Z" creationid="Radim" creationdate="20180921T081347Z">
         <seg>Extrakt z pampelišky - posiluje cirkulaci krve v tkáni a pomáhá s vylučováním přebytečných tekutin;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Decreasing insulin levels &amp; improving blood sugar metabolism, chromium controlls cholesterol and triglyceride (blood fat) levels.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110740Z" creationid="Radim" creationdate="20180922T110740Z">
+        <seg>Snižuje hladinu inzulínu a zlepšuje metabolismus cukru v krvi, reguluje cholesterol a triglycerid.</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,6 +658,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193835Z" creationid="HP" creationdate="20180920T193835Z">
         <seg>For Home Page:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Found in nuts and fish, it regulates blood sugar levels.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110639Z" creationid="Radim" creationdate="20180922T110639Z">
+        <seg>Vyskytuje se v oříšcích a rybách, reguluje hladinu cukru v krvi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +1008,8 @@
       <tuv lang="EN-US">
         <seg>Iodine is known to make blood thinner.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110502Z" creationid="Radim" creationdate="20180922T110502Z">
-        <seg>O jódu je známo, že tenčí krev.</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110526Z" creationid="Radim" creationdate="20180922T110502Z">
+        <seg>O jódu je známo, že ředí krev.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1114,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155143Z" creationid="HP" creationdate="20180921T155143Z">
         <seg>Snadno se aplikuje a může být použit v kombinaci s léky s protizánětlivými účinky a léky od bolesti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is necessary for the formation of insulin in the pancreas’s beta cells.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110808Z" creationid="Radim" creationdate="20180922T110808Z">
+        <seg>Je nezbytný pro tvorbu inzulínu v beta buňkách slinivky břišní.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2434,6 +2474,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154508Z" creationid="HP" creationdate="20180921T154326Z">
         <seg>Tento produkt nenaleznete v lékárnách nebo na stránkách obchodu Amazon, výrobci se rozhodli tento produkt prodávat pouze na svých oficiálních webových stránkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zinc</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110743Z" creationid="Radim" creationdate="20180922T110743Z">
+        <seg>Zinek</seg>
       </tuv>
     </tu>
     <tu>
