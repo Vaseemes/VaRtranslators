@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A Doctor's advice should be sought before using this and any supplemental dietary product.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135532Z" creationid="Radim" creationdate="20180922T135532Z">
+        <seg>Před použitím tohoto nebo jakéhokoli jiného doplňku stravy je poradit se se svým lékařem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A fake product was purchased instead of the original.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182145Z" creationid="Radim" creationdate="20180921T182145Z">
@@ -1370,6 +1378,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T083101Z" creationid="Radim" creationdate="20180921T083101Z">
         <seg>V případě jakýchkoli dalších dotazů o produktu nám můžete poskytnout váš kontakt a dotázat se přímo ředitele společnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you utilize any information provided in this site, you do so at your own risk and you specifically waive any right to make any claim against the author and publisher of this Website and materials as the result of the use of such information.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135814Z" creationid="Radim" creationdate="20180922T135814Z">
+        <seg>Pokud budete využívat jakékoli informace poskytnuté na této internetové stránce, činíte tak na vlastní riziko a výslovně se vzdáváte práva nárokovat jakoukoli náhradu od autora nebo vydavatele těchto internetových stránek.</seg>
       </tuv>
     </tu>
     <tu>
