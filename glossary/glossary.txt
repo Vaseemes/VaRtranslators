@@ -16,3 +16,4 @@ Control	regulace, kontrola
 INGREDIENTS	PŘÍSDA
 ingredients	přísada
 Glucose	glukóza
+Vitamin	Vitamín
