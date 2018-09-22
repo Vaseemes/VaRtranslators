@@ -374,6 +374,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cinnamon Extract</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104011Z" creationid="Radim" creationdate="20180922T104011Z">
+        <seg>Extrakt ze skořice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cinnamon, a commonly used spice, improves and regulates blood glucose, lowers fasting blood sugar &amp; cholesterol levels.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104131Z" creationid="Radim" creationdate="20180922T104131Z">
+        <seg>Skořice je běžně používané koření, pomáhá regulovat glukózu, snižuje hladinu cukru v krvi a hladinu cholesterolu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Clinical studies found no side effects except for very rare individual intolerance of capsule components.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T082056Z" creationid="Radim" creationdate="20180921T082056Z">
