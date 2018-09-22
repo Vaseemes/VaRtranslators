@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As we age—or if we are not in optimal health—communication and balance among these hormones and enzymes can be disrupted, causing the liver to produce more glucose than necessary.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112641Z" creationid="Radim" creationdate="20180922T112641Z">
+        <seg>Jak stárneme - nebo pokud nejsme optimálně zdraví - funkce těchto hormonů a enzymů může být narušena, což způsobuje vyšší produkci glukózy, než je nutné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Athletes, who must deal with consequences after old sports traumas.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T125623Z" creationid="Radim" creationdate="20180921T125623Z">
@@ -696,8 +704,16 @@
       <tuv lang="EN-US">
         <seg>GLYCOZAL HELPS REDUCE GLUCOSE ABSORPTION IN THE INTESTINES</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112150Z" creationid="Radim" creationdate="20180922T112150Z">
-        <seg>GLYCOZAL POMÁHÁ SNIŽOVAT ABSORPCI GLUKÓZY VE STŘEVECH</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112507Z" creationid="Radim" creationdate="20180922T112150Z">
+        <seg>GLYCOZAL POMÁHÁ REDUKOVAT ABSORPCI GLUKÓZY VE STŘEVECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>GLYCOZAL HELPS REDUCE GLUCOSE PRODUCTION IN THE LIVER</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112519Z" creationid="Radim" creationdate="20180922T112504Z">
+        <seg>GLYCOZAL POMÁHÁ REDUKOVAT PRODUKCI GLUKÓZY V JÁTRECH</seg>
       </tuv>
     </tu>
     <tu>
@@ -1542,6 +1558,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our liver produces glucose internally, and a group of hormones and enzymes control the process.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112550Z" creationid="Radim" creationdate="20180922T112550Z">
+        <seg>Naše játra produkují glukózu a skupina hormonů a enzymů v játrech tento proces kontroluje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over 35 thousand of customers apply Hondrocream and see remarkable results.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182019Z" creationid="Radim" creationdate="20180921T182019Z">
@@ -1818,6 +1842,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211654Z" creationid="Radim" creationdate="20180920T211654Z">
         <seg>Zpomalení procesu hojení.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>So, by reducing the absorption of glucose in the intestines you can support your overall blood sugar health.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112452Z" creationid="Radim" creationdate="20180922T112452Z">
+        <seg>Snížením absorpce glukózy ve střevech udržuje celkovou hladinu cukru v krvi.</seg>
       </tuv>
     </tu>
     <tu>
