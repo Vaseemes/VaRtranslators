@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>"I went to the Internet to find a natural alternative to support healthy blood sugar levels.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T123203Z" creationid="Radim" creationdate="20180922T123203Z">
+        <seg>„Hledala jsem na internetu nějaký alternativní přírodní výrobek, který by pomáhal udržovat správnou hladinu cukru v krvi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>"I've been using Glycozal for 3 weeks, and I love it.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121627Z" creationid="Radim" creationdate="20180922T120401Z">
@@ -798,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GLYCOZAL!!!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T123240Z" creationid="Radim" creationdate="20180922T123240Z">
+        <seg>Byl to GLYCOZAL!!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Galega officinalis extract – &lt;t0/&gt;improves eye and skin protection on the cellular level&lt;t1/&gt;;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081203Z" creationid="Radim" creationdate="20180921T080811Z">
@@ -982,10 +998,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I Have Lost 62 kg</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T123023Z" creationid="Radim" creationdate="20180922T123023Z">
+        <seg>Zhubnul jsem 62 kg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I am very pleased, and intend to keep this regimen of diet, exercise, and Glycozal."*</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122950Z" creationid="Radim" creationdate="20180922T122950Z">
-        <seg>Jsem s výsledkem naprosto spokojen, mám v plánu užívat Glycozal dál a stejně tak pokračovat ve cvičení.</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T123002Z" creationid="Radim" creationdate="20180922T122950Z">
+        <seg>Jsem s výsledkem naprosto spokojen, mám v plánu užívat Glycozal dál a stejně tak pokračovat ve cvičení.“*</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1018,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T230047Z" creationid="Radim" creationdate="20180920T230047Z">
         <seg>Oceňuji odborné poradenství od konzultantů společnosti - vysvětlili mi dávkování.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I immediately placed the order, and have been taking them ever since.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T123354Z" creationid="Radim" creationdate="20180922T123354Z">
+        <seg>Okamžitě jsem si tento produkt objednala a již nějakou dobu ho užívám.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There were many, but one especially caught my attention by its many users and positive testimonials.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T123232Z" creationid="Radim" creationdate="20180922T123232Z">
+        <seg>Našla jsem jich mnoho, ale jeden měl více pozitivních recenzí a hlavně vyšší počet uživatelů.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These ingredients obtained quality certificates in all countries, where Hondrocream is available for sale.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184744Z" creationid="Radim" creationdate="20180921T184744Z">
@@ -3024,8 +3064,8 @@
       <tuv lang="EN-US">
         <seg>–Thomas, Manchester</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122957Z" creationid="Radim" creationdate="20180922T122957Z">
-        <seg>–</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T123014Z" creationid="Radim" creationdate="20180922T122957Z">
+        <seg>–Tomáš, Brno</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
