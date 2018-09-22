@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And Maggie not only has normal blood sugar, but she also lost weight!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T114937Z" creationid="Radim" creationdate="20180922T114937Z">
+        <seg>A nejenom, že má Klára hladinu cukru v krvi v normě, ale také zhubla!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And when you consume excessive sugar and carbs, it’s more difficult to keep your blood sugar in the normal range.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112403Z" creationid="Radim" creationdate="20180922T112403Z">
@@ -1814,6 +1822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduce the intestines' absorption of glucose from food</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115143Z" creationid="Radim" creationdate="20180922T115143Z">
+        <seg>Redukuje vstřebávání glukózy z potravy ve střevech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduce weight in a healthy way</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101737Z" creationid="Radim" creationdate="20180922T101737Z">
@@ -2562,6 +2578,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185907Z" creationid="Radim" creationdate="20180921T185907Z">
         <seg>Věříme, že vaše zkušenosti s krémem Hondrocream budou nadmíru uspokojivé!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's their secret?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T114946Z" creationid="Radim" creationdate="20180922T114946Z">
+        <seg>Jaké je jejich tajemství?</seg>
       </tuv>
     </tu>
     <tu>
