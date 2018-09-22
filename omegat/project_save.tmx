@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Example:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113407Z" creationid="Radim" creationdate="20180922T113407Z">
+        <seg>Příklad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Example: "Lucy's Blog" (Tamara, Sanda, Gloria, etc.)</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094405Z" creationid="Radim" creationdate="20180922T094405Z">
@@ -1046,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increases glucose uptake in the cells</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113332Z" creationid="Radim" creationdate="20180922T113240Z">
+        <seg>Zvyšuje buněčnou absorpci glukózy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inhibits manifestation of arthrosis and osteochondrosis;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155259Z" creationid="HP" creationdate="20180921T155259Z">
@@ -1422,6 +1438,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mary's blood sugar is steady at 95.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T114302Z" creationid="Radim" creationdate="20180922T114302Z">
+        <seg>Hladina cukru Marie je stabilní na 95.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Menthol –&lt;t0/&gt; 100% natural &lt;t1/&gt;analgesic&lt;t2/&gt; substance to eliminate pain and discomfort; powers up the combination of other ingredients;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184412Z" creationid="Radim" creationdate="20180921T184412Z">
@@ -1702,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Principle of Action:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113250Z" creationid="Radim" creationdate="20180922T113231Z">
+        <seg>Jak výrobek funguje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Problems with blood circulation in extremities that may lead to amputation;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211440Z" creationid="Radim" creationdate="20180920T211406Z">
@@ -1802,6 +1834,22 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105912Z" creationid="Radim" creationdate="20180922T105912Z">
         <seg>Snižuje koncentraci glukózy v krvi a potlačuje chuť k jídlu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces glucose absorption in the intestines</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113353Z" creationid="Radim" creationdate="20180922T113353Z">
+        <seg>Redukuje absorbci glukózy ve střevech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces glucose production in the liver</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113401Z" creationid="Radim" creationdate="20180922T113401Z">
+        <seg>Redukuje produkci glukózy v játrech</seg>
       </tuv>
     </tu>
     <tu>
