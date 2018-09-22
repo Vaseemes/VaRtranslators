@@ -13,3 +13,5 @@ capsule	kapsle
 individual	individuální
 ligaments	vazy
 Control	regulace, kontrola
+INGREDIENTS	PŘÍSDA
+ingredients	přísada
