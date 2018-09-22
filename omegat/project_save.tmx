@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Bitter Melon Fruit Extract</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105845Z" creationid="Radim" creationdate="20180922T105659Z">
+        <seg>Extrakt z plodů Momordica charantia (karela)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Boosts natural collagen synthesis for self-restoration;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155846Z" creationid="HP" creationdate="20180921T155846Z">
@@ -648,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>Garcinia Cambogia Fruit Extract</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104322Z" creationid="Radim" creationdate="20180922T104322Z">
-        <seg>Extrakt plodů Garcinia Cambogia</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105703Z" creationid="Radim" creationdate="20180922T104322Z">
+        <seg>Extrakt z plodů Garcinia Cambogia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1562,6 +1570,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T101737Z" creationid="Radim" creationdate="20180922T101737Z">
         <seg>Pomáhá zdravým způsobem snížit váhu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces blood glucose concentrations &amp; suppresses appetite.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105912Z" creationid="Radim" creationdate="20180922T105912Z">
+        <seg>Snižuje koncentraci glukózy v krvi a potlačuje chuť k jídlu.</seg>
       </tuv>
     </tu>
     <tu>
