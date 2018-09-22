@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 g of cinnamon per day increases insulin sensitivity and manages or reverses Type II diabetes.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104240Z" creationid="Radim" creationdate="20180922T104240Z">
+        <seg>1 g skořice denně zvyšuje citlivost na inzulín a kontroluje nebo snižuje symptomy cukrovky II. typu. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1)</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074758Z" creationid="Radim" creationdate="20180921T074758Z">
@@ -376,8 +384,8 @@
       <tuv lang="EN-US">
         <seg>Cinnamon Extract</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104011Z" creationid="Radim" creationdate="20180922T104011Z">
-        <seg>Extrakt ze skořice</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104326Z" creationid="Radim" creationdate="20180922T104011Z">
+        <seg>Extrakt skořice</seg>
       </tuv>
     </tu>
     <tu>
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081203Z" creationid="Radim" creationdate="20180921T080811Z">
         <seg>Extrakt z jestřabiny lékařské - zvyšuje ochranu kůže a očí na buněčné úrovni;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Garcinia Cambogia Fruit Extract</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104322Z" creationid="Radim" creationdate="20180922T104322Z">
+        <seg>Extrakt plodů Garcinia Cambogia</seg>
       </tuv>
     </tu>
     <tu>
@@ -1538,6 +1554,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T223158Z" creationid="Radim" creationdate="20180920T223105Z">
         <seg>Odstranění toxinů a edémů;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Rich in antioxidants, it also has anti-clotting effect on the blood.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T104306Z" creationid="Radim" creationdate="20180922T104306Z">
+        <seg>Je bohatá na antioxidanty, také má protisrážlivé účinky.</seg>
       </tuv>
     </tu>
     <tu>
