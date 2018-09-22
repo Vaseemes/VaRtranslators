@@ -1686,6 +1686,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reduces Glucose Absorption In The Intestines</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T111653Z" creationid="Radim" creationdate="20180922T111653Z">
+        <seg>Snižuje absorpci glukózy ve střevech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Reduces Glucose Production In The Liver</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T111734Z" creationid="Radim" creationdate="20180922T111734Z">
+        <seg>Snižuje produkci glukózy v játrech</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Reduces blood glucose concentrations &amp; suppresses appetite.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105912Z" creationid="Radim" creationdate="20180922T105912Z">
