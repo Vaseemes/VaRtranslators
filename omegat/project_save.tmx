@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All Of The Above</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124236Z" creationid="Radim" creationdate="20180922T124236Z">
+        <seg>Vše z výše uvedeného</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All you need is to leave your contacts and discover top properties of the supplement before ordering it: action, manufacturer promises, components, contraindication, tips on how to take a lot of other valuable information.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200547Z" creationid="Radim" creationdate="20180920T200237Z">
@@ -886,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Glycozal is a food supplement to lower and control blood sugar in a natural way.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124614Z" creationid="Radim" creationdate="20180922T124614Z">
+        <seg>Glycozal je potravinový doplněk </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Glycozal is formulated to include TEN Natural Ingredients working together to support healthy blood sugar levels.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T111608Z" creationid="Radim" creationdate="20180922T111608Z">
@@ -1282,6 +1298,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113332Z" creationid="Radim" creationdate="20180922T113240Z">
         <seg>Zvyšuje buněčnou absorpci glukózy </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ingredients:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124353Z" creationid="Radim" creationdate="20180922T124353Z">
+        <seg>Přísady:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1902,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>PROCEED TO ORDER</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124244Z" creationid="Radim" creationdate="20180922T124244Z">
+        <seg>PŘEJÍT K OBJEDNÁVCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Pancreatic islets stimulation;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222838Z" creationid="Radim" creationdate="20180920T222659Z">
@@ -2022,6 +2054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Promote Healthy Energy</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124222Z" creationid="Radim" creationdate="20180922T124222Z">
+        <seg>Zvyšuje energii člověka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Promote Healthy Weight Loss</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124146Z" creationid="Radim" creationdate="20180922T124146Z">
@@ -2032,8 +2072,8 @@
       <tuv lang="EN-US">
         <seg>Promote Heart and Blood Vessel  Health</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124207Z" creationid="Radim" creationdate="20180922T124207Z">
-        <seg>Podporuje funkci srdce a céva</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124215Z" creationid="Radim" creationdate="20180922T124207Z">
+        <seg>Podporuje funkci srdce a cév</seg>
       </tuv>
     </tu>
     <tu>
