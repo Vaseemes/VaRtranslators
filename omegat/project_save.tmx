@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>According to the opinion of the Scientific Group on Food Chemistry Experts of the Länder (ALS) and the Federal Office for Consumer Protection and Food Safety (BVL), free amino acids and special nitrogen-containing ingredients, e.g. L-carnitine in the nutritional table are not included in the term "protein".</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125409Z" creationid="Radim" creationdate="20180922T125409Z">
+        <seg>Podle stanoviska vědecké skupiny potravinářské chemie (ALS) a federálního úřadu pro ochranu spotřebitele a bezpečnosti potravin (BVL), nejsou volné aminokyseliny a speciální přísady obsahující dusík, například L-karnitin, v tabulce nutričních hodnot zahrnuty pod termínem „protein“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Active lifestyle and healthy living may protect from a lot of diseases except for joint and spine conditions.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T180322Z" creationid="Radim" creationdate="20180921T180322Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124236Z" creationid="Radim" creationdate="20180922T124236Z">
         <seg>Vše z výše uvedeného</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All data are subject to usual variations in natural products.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125044Z" creationid="Radim" creationdate="20180922T125044Z">
+        <seg>Všechny hodnoty podléhají obvyklým změnám v přírodních produktech.</seg>
       </tuv>
     </tu>
     <tu>
@@ -490,6 +506,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183452Z" creationid="Radim" creationdate="20180921T183452Z">
         <seg>Kafr - díky jeho analgetickým účinkům odstraňuje otok a zklidňuje zanícenou oblast;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Carbohydrate</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124934Z" creationid="Radim" creationdate="20180922T124934Z">
+        <seg>Sacharidy</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Energy</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124810Z" creationid="Radim" creationdate="20180922T124810Z">
+        <seg>Energie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Energy Up &amp; Weight Down 45 kg</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122511Z" creationid="Radim" creationdate="20180922T122511Z">
@@ -798,10 +830,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fat</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124821Z" creationid="Radim" creationdate="20180922T124813Z">
+        <seg>Tuky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Feel free to leave your contacts, if you want to get more information: the company offers comprehensive advice free of charge.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T185757Z" creationid="Radim" creationdate="20180921T185757Z">
         <seg>Neváhejte a sdělte nám své kontaktní informace, pokud chcete získat více informací: společnost nabízí komplexní poradenství zdarma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Fibre</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124949Z" creationid="Radim" creationdate="20180922T124949Z">
+        <seg>Vláknina</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Protein</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124952Z" creationid="Radim" creationdate="20180922T124952Z">
+        <seg>Bílkoviny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Recommended daily intake: Take 1 x 1 capsule with plenty of water</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124728Z" creationid="Radim" creationdate="20180922T124728Z">
@@ -2278,6 +2334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remark:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125047Z" creationid="Radim" creationdate="20180922T125047Z">
+        <seg>Poznámka:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Remember that SugaNorm doesn’t replace insulin injections or other medications prescribed by your physician.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075148Z" creationid="Radim" creationdate="20180921T075148Z">
@@ -2314,6 +2378,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105935Z" creationid="Radim" creationdate="20180922T105935Z">
         <seg>Plody jsou bohaté na vitamíny a minerály, mají anti-diabetické vlastnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Salt</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125006Z" creationid="Radim" creationdate="20180922T125006Z">
+        <seg>Soli</seg>
       </tuv>
     </tu>
     <tu>
@@ -3230,10 +3302,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>of which saturates</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124828Z" creationid="Radim" creationdate="20180922T124828Z">
+        <seg>z toho nasycené</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>of which sugars</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124938Z" creationid="Radim" creationdate="20180922T124938Z">
+        <seg>z toho cukry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>per 100 g</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124808Z" creationid="Radim" creationdate="20180922T124808Z">
         <seg>na 100 g </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>per portion&lt;t0/&gt;1 (1 capsule)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125013Z" creationid="Radim" creationdate="20180922T125013Z">
+        <seg>na kapsli</seg>
       </tuv>
     </tu>
     <tu>
