@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>- Blood Suger Control -</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094605Z" creationid="Radim" creationdate="20180922T094605Z">
+        <seg>- Regulace hladiny cukru v krvi -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>1)</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074758Z" creationid="Radim" creationdate="20180921T074758Z">
@@ -478,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>ENGLISH TEXT</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094352Z" creationid="Radim" creationdate="20180922T094352Z">
+        <seg>ENGLISH TEXT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Elderflower seeds –&lt;t0/&gt; &lt;t1/&gt;have antibacterial properties and speed up self-healing &lt;t2/&gt;processes;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081247Z" creationid="Radim" creationdate="20180921T081159Z">
@@ -514,6 +530,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184210Z" creationid="Radim" creationdate="20180921T184210Z">
         <seg>Eukalyptový olej - pomáhá zmírnit procesy degenerace a zmírňuje bolest; má hřejivé účinky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Example: "Lucy's Blog" (Tamara, Sanda, Gloria, etc.)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094405Z" creationid="Radim" creationdate="20180922T094405Z">
+        <seg>Example: "Lucy's Blog" (Tamara, Sanda, Gloria, etc.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -770,6 +794,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T181738Z" creationid="Radim" creationdate="20180921T181738Z">
         <seg>Za 3 dny jsem necítil žádnou bolest, po týdnu jsem mohl chodit bez přílišného úsilí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In other words, adapt/modify some native names or make suggestions in brackets for them.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094354Z" creationid="Radim" creationdate="20180922T094354Z">
+        <seg>In other words, adapt/modify some native names or make suggestions in brackets for them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1158,6 +1190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>NOTE:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094352Z" creationid="Radim" creationdate="20180922T094352Z">
+        <seg>NOTE:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Never exceed the recommended dosage.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075103Z" creationid="Radim" creationdate="20180921T075103Z">
@@ -1274,6 +1314,22 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T190005Z" creationid="Radim" creationdate="20180921T190005Z">
         <seg>Please note:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please translate the names in the text with ones in your own language.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094353Z" creationid="Radim" creationdate="20180922T094353Z">
+        <seg>Please translate the names in the text with ones in your own language.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Please, do not translate these tags, instead wrap the translated word/sentece in the same way as shown in the english text.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094416Z" creationid="Radim" creationdate="20180922T094416Z">
+        <seg>Please, do not translate these tags, instead wrap the translated word/sentece in the same way as shown in the english text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>THE SIMPLE SECRET TO NORMAL BLOOD SUGAR LEVELS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T100230Z" creationid="Radim" creationdate="20180922T100230Z">
+        <seg>JEDNODUCHÉ TAJEMSTVÍ NORMÁLNÍ HLADINY CUKRU V KRVI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>TRANSLATED TEXT</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T191006Z" creationid="HP" creationdate="20180920T191006Z">
@@ -1750,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There are some HTML words in the text such as "&lt;strong&gt;","&lt;u&gt;","&lt;p&gt;","&lt;a&gt;","&lt;br&gt;" which wrap words or senteces.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094411Z" creationid="Radim" creationdate="20180922T094411Z">
+        <seg>There are some HTML words in the text such as "&lt;strong&gt;","&lt;u&gt;","&lt;p&gt;","&lt;a&gt;","&lt;br&gt;" which wrap words or senteces.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There is only one official website out there.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154528Z" creationid="HP" creationdate="20180921T154528Z">
@@ -1762,6 +1834,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184744Z" creationid="Radim" creationdate="20180921T184744Z">
         <seg>Ve všech zemích, kde je Hondrocream k dispozici k prodeji, obdržely tyto přísady certifikáty nejvyšší jakosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are mark on &lt;t0/&gt;red&lt;t1/&gt; in sentence.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094420Z" creationid="Radim" creationdate="20180922T094420Z">
+        <seg>They are mark on &lt;t0/&gt;red&lt;t1/&gt; in sentence.</seg>
       </tuv>
     </tu>
     <tu>
