@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An ingredient in Glycozal was evaluated in a 10-week study, and participants lost approximately 10 kg more weight than with low-calorie diet alone (Source: Obesity 23: 313-321, 2015).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T134836Z" creationid="Radim" creationdate="20180922T134836Z">
+        <seg>Přísady Glycozalu byly hodnoceny v 10 týdenní studii a účastníci zhubli přibližně o 10 kg více než při běžné nízkokalorické dietě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And Maggie not only has normal blood sugar, but she also lost weight!</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T114937Z" creationid="Radim" creationdate="20180922T114937Z">
@@ -1656,8 +1664,8 @@
       <tuv lang="EN-US">
         <seg>It is recommended that users follow a strict diet and exercise regimen to achieve weight loss results.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T134644Z" creationid="Radim" creationdate="20180922T134644Z">
-        <seg>Doporučujeme aby uživatelé dodržovali přísnou dietu a věnovali se pohybovým aktivitám, aby se dosáhlo výsledku hubnutí.</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T134652Z" creationid="Radim" creationdate="20180922T134644Z">
+        <seg>Doporučujeme aby uživatelé dodržovali přísnou dietu a věnovali se pohybovým aktivitám, aby bylo dosaženo výsledku hubnutí.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2530,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T134311Z" creationid="Radim" creationdate="20180922T134311Z">
         <seg>Výsledky se mohou lišit a neexistují žádné záruky konkrétních výsledků. Vědecké studie naznačují, že složky Glycozalu podporují zlepšení stavu hladiny cukru v krvi podporou 3 základních funkcí metabolismu krevního oběhu: absorpci glukózy z jídla (ADA Care), produkci glukózy v těle (US National Library of Medicine) a příjem absorpci glukózy buňkami (National Institues of Health).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Results will vary and there is no guarantee of specific results.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T134731Z" creationid="Radim" creationdate="20180922T134710Z">
+        <seg>Výsledky se budou lišit a žádný konkrétní výsledek není zaručen..</seg>
       </tuv>
     </tu>
     <tu>
