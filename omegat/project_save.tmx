@@ -966,6 +966,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Iodine</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110334Z" creationid="Radim" creationdate="20180922T110334Z">
+        <seg>Jód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Iodine is known to make blood thinner.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110502Z" creationid="Radim" creationdate="20180922T110502Z">
+        <seg>O jódu je známo, že tenčí krev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It can’t replace insulin injections, but the product helps to reduce the inconvenience caused by the diagnosis: risks, pains, constant thirst, excess weight etc.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222115Z" creationid="Radim" creationdate="20180920T222115Z">
@@ -994,6 +1010,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T160205Z" creationid="HP" creationdate="20180921T160205Z">
         <seg>Na trhu má vynikající pověst.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It helps for the proper glucose metabolism and stabilizes the heart rhythm, lowers serum cholesterol and blood pressure.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110447Z" creationid="Radim" creationdate="20180922T110447Z">
+        <seg>Podporuje správný metabolizmus glukózy a stabilizuje srdeční tep, snižuje cholesterol a krevní tlak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1114,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T182737Z" creationid="Radim" creationdate="20180921T182737Z">
         <seg>Měla by být suchá a čistá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It suppresses the rise in blood glucose and preserves insulin secretion.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110325Z" creationid="Radim" creationdate="20180922T110325Z">
+        <seg>Potlačuje nárůst hladiny glukózy a pomáhá při sekreci inzulínu.</seg>
       </tuv>
     </tu>
     <tu>
