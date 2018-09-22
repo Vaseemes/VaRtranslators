@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And when you consume excessive sugar and carbs, it’s more difficult to keep your blood sugar in the normal range.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112403Z" creationid="Radim" creationdate="20180922T112403Z">
+        <seg>Když budete konzumovat příliš cukru a sacharidů, je obtížnější udržet hladinu cukru v krvi v normě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Apple Cider Vinegar Extract</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105229Z" creationid="Radim" creationdate="20180922T105229Z">
@@ -686,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GLYCOZAL HELPS REDUCE GLUCOSE ABSORPTION IN THE INTESTINES</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112150Z" creationid="Radim" creationdate="20180922T112150Z">
+        <seg>GLYCOZAL POMÁHÁ SNIŽOVAT ABSORPCI GLUKÓZY VE STŘEVECH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Galega officinalis extract – &lt;t0/&gt;improves eye and skin protection on the cellular level&lt;t1/&gt;;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T081203Z" creationid="Radim" creationdate="20180921T080811Z">
@@ -704,8 +720,8 @@
       <tuv lang="EN-US">
         <seg>Glycozal Supports the 3 Essentials to Keep Blood Sugar levels In Norm and Your Heart Healthy:</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112027Z" creationid="Radim" creationdate="20180922T112027Z">
-        <seg>Glycozal podporuje 3 základní prvky, které udržují hladinu cukru </seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112102Z" creationid="Radim" creationdate="20180922T112027Z">
+        <seg>Glycozal podporuje 3 základní prvky, které udržují hladinu cukru v normě a vaše srdce zdravé: </seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,8 +2408,8 @@
       <tuv lang="EN-US">
         <seg>WHAT ARE THE 3 ESSENTIALS OF NORMAL BLOOD SUGAR?</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T111957Z" creationid="Radim" creationdate="20180922T111957Z">
-        <seg>JAKÉ JSOU 3 ZÁKLADNÍ PRVKY PRO NORMÁLNÍ HLADINU CUKRU V KRVI?</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112034Z" creationid="Radim" creationdate="20180922T111957Z">
+        <seg>JAKÉ JSOU 3 ZÁKLADNÍ PRVKY PRO SPRÁVNOU HLADINU CUKRU V KRVI?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2562,6 +2578,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154508Z" creationid="HP" creationdate="20180921T154326Z">
         <seg>Tento produkt nenaleznete v lékárnách nebo na stránkách obchodu Amazon, výrobci se rozhodli tento produkt prodávat pouze na svých oficiálních webových stránkách.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your intestines convert sugar and carbs into glucose.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112242Z" creationid="Radim" creationdate="20180922T112242Z">
+        <seg>Vaše střeva přeměňují cukr a sacharidy na glukózu.</seg>
       </tuv>
     </tu>
     <tu>
