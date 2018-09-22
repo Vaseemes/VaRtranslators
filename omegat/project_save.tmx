@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a result, my energy level is up.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122702Z" creationid="Radim" creationdate="20180922T122702Z">
+        <seg>Navíc mám mnohem více energie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As we age—or if we are not in optimal health—communication and balance among these hormones and enzymes can be disrupted, causing the liver to produce more glucose than necessary.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112641Z" creationid="Radim" creationdate="20180922T112641Z">
@@ -970,6 +978,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T120321Z" creationid="Radim" creationdate="20180922T120321Z">
         <seg>Hladinu cukru v krvi jsem měl stabilní na 95</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I am very pleased, and intend to keep this regimen of diet, exercise, and Glycozal."*</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122950Z" creationid="Radim" creationdate="20180922T122950Z">
+        <seg>Jsem s výsledkem naprosto spokojen, mám v plánu užívat Glycozal dál a stejně tak pokračovat ve cvičení.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3002,6 +3018,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121813Z" creationid="Radim" creationdate="20180922T121813Z">
         <seg>Jitka, Olomouc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>–Thomas, Manchester</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122957Z" creationid="Radim" creationdate="20180922T122957Z">
+        <seg>–</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
