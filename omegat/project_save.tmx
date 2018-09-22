@@ -990,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I would highly recommend it!"*</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122357Z" creationid="Radim" creationdate="20180922T122335Z">
+        <seg>Doporučuji naprosto všem!“*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>IMPORTANT FACTS ABOUT GLYCOZAL</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115516Z" creationid="Radim" creationdate="20180922T115516Z">
@@ -1350,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It works!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122122Z" creationid="Radim" creationdate="20180922T122122Z">
+        <seg>Opravdu funguje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It’s up to you, whether to follow this recommendation or not, we just want our readers to be informed!</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T154703Z" creationid="HP" creationdate="20180921T154703Z">
@@ -1590,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>My numbers are averaging 100-120!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122140Z" creationid="Radim" creationdate="20180922T122140Z">
+        <seg>Hladina cukru je v průměru 100-120!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>My wife found a website of Hondrocream, where we ordered it.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T181650Z" creationid="Radim" creationdate="20180921T181650Z">
@@ -1656,8 +1680,8 @@
       <tuv lang="EN-US">
         <seg>Numbers Averaging 100-120</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121956Z" creationid="Radim" creationdate="20180922T121956Z">
-        <seg>Hladina v průměru mezi 100-120</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122149Z" creationid="Radim" creationdate="20180922T121956Z">
+        <seg>Hladina cukru v průměru 100-120</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,6 +2498,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T180757Z" creationid="Radim" creationdate="20180921T180757Z">
         <seg>Produkt je cenově dostupný a naleznete ho na oficiálních webových stránkách prodejců.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The product is awesome.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122256Z" creationid="Radim" creationdate="20180922T122256Z">
+        <seg>Je to skvělý produkt.</seg>
       </tuv>
     </tu>
     <tu>
