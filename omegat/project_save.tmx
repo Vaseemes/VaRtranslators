@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>CAUTION:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T130100Z" creationid="Radim" creationdate="20180922T130100Z">
+        <seg>VAROVÁNÍ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Camphor &lt;t0/&gt;– removes welling and soothes inflamed area due to its &lt;t1/&gt;warming analgesic&lt;t2/&gt; effect;</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T183452Z" creationid="Radim" creationdate="20180921T183452Z">
@@ -722,6 +730,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T074344Z" creationid="Radim" creationdate="20180921T074344Z">
         <seg>Nepřerušujte léčbu dříve než po 30 dnech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not exceed recommended dose.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T130110Z" creationid="Radim" creationdate="20180922T130110Z">
+        <seg>Nikdy nepřekračujte doporučené dávkování.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1710,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Keep out of reach of young children!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T130055Z" creationid="Radim" creationdate="20180922T130055Z">
+        <seg>Uchovávejte mimo dosah dětí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Keira Phillips, thyroid specialist</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T222337Z" creationid="Radim" creationdate="20180920T222337Z">
@@ -2154,6 +2178,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T190007Z" creationid="Radim" creationdate="20180921T190007Z">
         <seg>Please, keep the &lt;t2/&gt;green text&lt;t3/&gt; in its place.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Pregnant or nursing mothers, children under the age of 18, and individuals with a known medical condition, including heart disease and blood pressure disorders, should consult a physician before using this or any dietary supplement.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T133308Z" creationid="Radim" creationdate="20180922T133308Z">
+        <seg>Těhotné a kojící ženy, děti mladší 18 let a jedinci se srdečním onemocněním a poruchami krevního tlaku by se měli před použitím výživových doplňků poradit se svým lékařem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2930,6 +2962,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T075433Z" creationid="Radim" creationdate="20180921T075433Z">
         <seg>Produkt by neměly užívat děti a těhotné nebo kojící ženy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The recommended daily intake indicated should not be exceeded.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T130045Z" creationid="Radim" creationdate="20180922T130045Z">
+        <seg>Nepřekračujte doporučenou denní dávku.</seg>
       </tuv>
     </tu>
     <tu>
