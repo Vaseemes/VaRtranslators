@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>%NRV*</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125959Z" creationid="Radim" creationdate="20180922T125959Z">
+        <seg>%DDD*</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>- Blood Suger Control -</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T094605Z" creationid="Radim" creationdate="20180922T094605Z">
@@ -886,6 +894,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Food supplements are not intended as a substitute for a balanced and varied diet and healthy lifestyle.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T130026Z" creationid="Radim" creationdate="20180922T130026Z">
+        <seg>Potravinové doplňky nejsou určeny jako náhrada vyvážené a pestré stravy a zdravého životního stylu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For Home Page:</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180920T193835Z" creationid="HP" creationdate="20180920T193835Z">
@@ -1306,6 +1322,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T211619Z" creationid="Radim" creationdate="20180920T211619Z">
         <seg>Poruchu funkce žaludku;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Important advice:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T130010Z" creationid="Radim" creationdate="20180922T130010Z">
+        <seg>Důležité upozornění:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1993,6 +2017,14 @@
         <seg>Olive Leaf Extract</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T105949Z" creationid="Radim" creationdate="20180922T105949Z">
+        <seg>Extrakt z olivových listů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Olive leaf extract</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125720Z" creationid="Radim" creationdate="20180922T125720Z">
         <seg>Extrakt z olivových listů</seg>
       </tuv>
     </tu>
@@ -2974,6 +3006,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Thereof oleuropein</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125755Z" creationid="Radim" creationdate="20180922T125755Z">
+        <seg>Z toho oleuropein</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These ingredients obtained quality certificates in all countries, where Hondrocream is available for sale.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180921T184744Z" creationid="Radim" creationdate="20180921T184744Z">
@@ -3110,10 +3150,42 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vitamin B1</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125813Z" creationid="Radim" creationdate="20180922T125813Z">
+        <seg>Vitamín B1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Vitamin B1 is involved in carbohydrate and fatty acid metabolism, which influences the energy production process; B2 &lt;t0/&gt;helps the body break down carbohydrates, proteins and fats to produce energy; &lt;t1/&gt;B6 is important for protein metabolism; B12 helps to maintain healthy red blood cells &amp; supports blood vessel health.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T111359Z" creationid="Radim" creationdate="20180922T111359Z">
         <seg>Vitamín B1 se podílí na látkové výměně sacharidů a mastných kyselin, což ovlivňuje přeměnu živin na energii; Vitamín B2 pomáhá tělu přeměnit karbohydráty, proteiny a tuky na energii; Vitamín B6 je důležitý při látkové výměně proteinů; Vitamín B12 udržuje zdravé červené krvinky a zlepšuje zdraví cév.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vitamin B12</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125835Z" creationid="Radim" creationdate="20180922T125835Z">
+        <seg>Vitamín B12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vitamin B2</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125815Z" creationid="Radim" creationdate="20180922T125815Z">
+        <seg>Vitamín B2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Vitamin B6</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125818Z" creationid="Radim" creationdate="20180922T125818Z">
+        <seg>Vitamín B6</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,6 +3438,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>g</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T130002Z" creationid="Radim" creationdate="20180922T130002Z">
+        <seg>g</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>mg</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T130001Z" creationid="Radim" creationdate="20180922T130001Z">
+        <seg>mg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>of which saturates</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124828Z" creationid="Radim" creationdate="20180922T124828Z">
@@ -3386,6 +3474,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T124808Z" creationid="Radim" creationdate="20180922T124808Z">
         <seg>na 100 g </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>per daily serving (1 capsule)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T125853Z" creationid="Radim" creationdate="20180922T125853Z">
+        <seg>na denní porci (1 kapsle)</seg>
       </tuv>
     </tu>
     <tu>
