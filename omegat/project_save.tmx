@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>GLYCOZAL HELPS INCREASE GLUCOSE INTAKE IN THE CELLS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112657Z" creationid="Radim" creationdate="20180922T112657Z">
+        <seg>GLYCOZAL POMÁHÁ ZVYŠIT PŘÍJEM GLUKÓZY V BUŇKÁCH</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GLYCOZAL HELPS REDUCE GLUCOSE ABSORPTION IN THE INTESTINES</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T112507Z" creationid="Radim" creationdate="20180922T112150Z">
@@ -1002,6 +1010,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T221306Z" creationid="Radim" creationdate="20180920T221306Z">
         <seg>V posledních letech byla odhalena další fakta o cukrovce typu 1. a 2. typu, symptomech, komplikacích a léčbě. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In response to higher blood sugar levels—after a meal or snack, for example—your body releases insulin, a hormone made by the pancreas.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T113032Z" creationid="Radim" creationdate="20180922T113032Z">
+        <seg>V reakci na vyšší hladinu cukru v krvi - například po jídle nebo svačince - vaše tělo uvolňuje inzulin, což je hormon produkovaný slinivkou břišní. </seg>
       </tuv>
     </tu>
     <tu>
