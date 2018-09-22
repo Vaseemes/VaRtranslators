@@ -8,8 +8,8 @@
       <tuv lang="EN-US">
         <seg>"I ordered Glycozal and WOW.</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122117Z" creationid="Radim" creationdate="20180922T122117Z">
-        <seg>„Objednal jsem si Glycozal a byl jsem neskutečně překvapen.</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122428Z" creationid="Radim" creationdate="20180922T122117Z">
+        <seg>„Objednala jsem si Glycozal a byl ajsem neskutečně překvapena.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18,6 +18,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121627Z" creationid="Radim" creationdate="20180922T120401Z">
         <seg>„Glycozal používám 3 týdny a jsem s ním naprosto spokojená.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>"Taking Glycozal has made me very conscious of my diet and exercise and my body weight has dropped 45 kilograms in the past year and a half.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122656Z" creationid="Radim" creationdate="20180922T122656Z">
+        <seg>„Díky užívání produktu Glycozal se už nemusím trápit dietami. Pouhým cvičeným a zdravým životním stylem jsem zhubnul 45 kilogramů za poslední rok a půl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +658,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155419Z" creationid="HP" creationdate="20180921T155415Z">
         <seg>Eliminuje bolest páteře, kloubů a vazů;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Energy Up &amp; Weight Down 45 kg</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122511Z" creationid="Radim" creationdate="20180922T122511Z">
+        <seg>Více energie a nižší váha</seg>
       </tuv>
     </tu>
     <tu>
@@ -2360,8 +2376,8 @@
       <tuv lang="EN-US">
         <seg>Thank you!"*</seg>
       </tuv>
-      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T121802Z" creationid="Radim" creationdate="20180922T121802Z">
-        <seg>Vřele všem doporučuji!“</seg>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122402Z" creationid="Radim" creationdate="20180922T121802Z">
+        <seg>Vřele všem doporučuji!“*</seg>
       </tuv>
     </tu>
     <tu>
@@ -2970,6 +2986,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T115448Z" creationid="Radim" creationdate="20180922T115448Z">
         <seg>funguje rychle</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>–Jessica, Aberdeen</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T122438Z" creationid="Radim" creationdate="20180922T122419Z">
+        <seg>–Kristýna, Znojmo</seg>
       </tuv>
     </tu>
     <tu>
