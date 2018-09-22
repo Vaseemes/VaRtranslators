@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;t3/&gt;&lt;strong&gt;&lt;t4/&gt;But when you target all 3 Essentials together&lt;t5/&gt;&lt;/strong&gt;&lt;t6/&gt; with Glycozal, it will help you maintain normal blood sugar levels in the future.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T140521Z" creationid="Radim" creationdate="20180922T140521Z">
+        <seg>&lt;t3/&gt;&lt;strong&gt;&lt;t4/&gt;Ale když se zaměříte na všechny 3 základní prvky dohromady&lt;t5/&gt;&lt;/strong&gt;&lt;t6/&gt; , Glycozal vám pomůže udržovat hladinu cukru v krvi i v budoucnosti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A Doctor's advice should be sought before using this and any supplemental dietary product.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135532Z" creationid="Radim" creationdate="20180922T135532Z">
@@ -2482,6 +2490,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155323Z" creationid="HP" creationdate="20180921T155323Z">
         <seg>Podporuje poúrazová a pooperační zotavení;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Proper diet and exercise are the first steps in supporting the &lt;t0/&gt;&lt;strong&gt;&lt;t1/&gt;3 Essentials.&lt;t2/&gt;&lt;/strong&gt;&lt;t3/&gt;  But for many people, diet and exercise aren't enough.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T140650Z" creationid="Radim" creationdate="20180922T140650Z">
+        <seg>Správná strava a cvičení podporují tyto &lt;t0/&gt;&lt;strong&gt;&lt;t1/&gt;3 základních prvky.&lt;t2/&gt;&lt;/strong&gt;&lt;t3/&gt; Ale mnoha lidem cvičení a dieta nestačí.</seg>
       </tuv>
     </tu>
     <tu>
