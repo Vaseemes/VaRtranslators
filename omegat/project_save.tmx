@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>All trademarks and copyrights are the property of their respective owners and are not affiliated with nor do they endorse Glycozal.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T135945Z" creationid="Radim" creationdate="20180922T135945Z">
+        <seg>Všechny ochranné známky a autorská práva jsou majetkem jejich příslušných vlastníků. Nepatří ani nepodporují produkt Glycozal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>All you need is to leave your contacts and discover top properties of the supplement before ordering it: action, manufacturer promises, components, contraindication, tips on how to take a lot of other valuable information.</seg>
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180920T200547Z" creationid="Radim" creationdate="20180920T200237Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="HP" changedate="20180921T155846Z" creationid="HP" creationdate="20180921T155846Z">
         <seg>Zvyšuje přirozenou syntézu kolagenu..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By using this site you agree to follow the Privacy Policy and all Terms &amp; Conditions printed on this site.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T140027Z" creationid="Radim" creationdate="20180922T140027Z">
+        <seg>Používáním této internetové stránky souhlasíte s dodržováním zásad ochrany osobních údajů, které jsou uvedeny na tomto webu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3418,6 +3434,14 @@
       </tuv>
       <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T110900Z" creationid="Radim" creationdate="20180922T110900Z">
         <seg>Vitamíny B1, B2, B6, B12 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Void Where Prohibited By Law.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Radim" changedate="20180922T140036Z" creationid="Radim" creationdate="20180922T140036Z">
+        <seg>Neplatné, kde je to zákonem zakázáno.</seg>
       </tuv>
     </tu>
     <tu>
